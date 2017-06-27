@@ -211,7 +211,7 @@ width: 500px;
 height: auto;
 position: relative;
 left: -25%;
-top: -5%;
+top: -2%;
 }
 .thumbnail a{
 float: left;
@@ -237,16 +237,33 @@ display: block;
 /**
  * Portfolio pages **********************************************************
 */
+i {
+    border: solid $text-color;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    &:hover {
+    text-decoration: none;
+    color: $theme-color;
+        }
+}
+.left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+
+}
+
+
 .blankbox{
 background: $theme-color;
 }
 .img_row{
-max-width: height: $img_height;
+max-height: $img_height;
 max-width: 100%;
 overflow: hidden;
 box-sizing:border-box;
 padding: $img_spacing;
-&hover{
+&:hover{
 overflow: visible;
 }
 }
@@ -257,7 +274,7 @@ float: left;
 object-fit: cover;
 box-sizing:border-box;
 padding: $img_spacing;
-&hover{
+&:hover{
 overflow: visible;
 }
 }
