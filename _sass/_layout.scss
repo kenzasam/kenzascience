@@ -246,9 +246,6 @@ max-width: 100%;
 overflow: hidden;
 box-sizing:border-box;
 padding: $img_spacing;
-&:hover{
-overflow: visible;
-}
 }
 .col{
 max-width: 100%;
@@ -257,9 +254,6 @@ float: left;
 object-fit: cover;
 box-sizing:border-box;
 padding: $img_spacing;
-&:hover{
-overflow: visible;
-}
 }
 .right{
 float: right;

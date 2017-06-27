@@ -4,7 +4,7 @@ title: Making & Design
 description: Design and stuff
 img: /img/des1.jpg
 ---
-
+I hang out in makerspaces and make stuff.
 Trying to explore VR and projection mapping soon.
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/TreeofLight2.gif" alt="" title="VR doodle"/>
@@ -12,3 +12,6 @@ Trying to explore VR and projection mapping soon.
 <div class="col three caption">
 	Google Tilt Brush
 </div>
+<br>
+<br>
+<FORM><INPUT Type="button" VALUE="<" onClick="history.go(-1);return true;"></FORM>

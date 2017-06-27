@@ -9,10 +9,9 @@ permalink: /about/
 
 
 
-<h3>About Me</h3>
 
 Science communicator, entrepreneur, and bioengineer.
-Currently Montréal based biohacker at <a href="http://brico.bio" target="blank">Bricobio</a>, marketing manager at <a href="http://www.thebrane.com" target="blank">The Brane</a> and freelancer.
+Currently Montréal based biohacker at <a href="http://brico.bio" target="blank">Bricobio</a>, marketing manager at <a href="http://www.thebrane.com" target="blank">The Brane</a> and freelance biotech consultant.
 While completing a Masters degree in Bioscience Engineering at KULeuven, I've done research on Mycorrhizal fungi genetics at University of Montréal. Ow, I also travel all the time.
 
 {% comment %}
