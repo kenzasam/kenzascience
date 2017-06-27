@@ -1,0 +1,34 @@
+# Site settings
+title: "kenza.science"
+email: #
+description: "Innovation - Design - Biology - Policy"
+baseurl: # the subpath of your site, e.g. /blog/
+url:  "https://kenza.science"
+twitter_username: kenzasaml
+github_username: #
+
+# Build settings
+markdown: kramdown
+
+highlighter: pygments
+
+# Pagination
+paginate: 15
+paginate_path: "/blog/page:num/"
+
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  blog:
+    output: true
+    permalink: /Blog:path/
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
