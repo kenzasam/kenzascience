@@ -16,6 +16,7 @@ More photography can be found <a href="http://www.flickr.com/photos/inzaie" targ
 <div class="col three caption">
 	Analog landscape series. Minolta XG-2, Marexar 50mm f/2, on 35mm film.
 </div>
+
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/s1.jpg" onmouseover="this.width=150" alt="" title=""/>
 	<img class="col one" src="{{ site.baseurl }}/img/s2.jpg" alt="" title=""/>
@@ -35,5 +36,4 @@ Super Marexar 28mm f/2.8 (M42)
 Minolta MD Rokkor 50mm f/1.8
 </p>
 <br>
-<br>
-<FORM><INPUT Type="button" VALUE="<" onClick="history.go(-1);return true;"></FORM>
+<a href="javascript:javascript:history.go(-1)">  <font size="15"> < </font> </a>

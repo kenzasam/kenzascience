@@ -46,3 +46,6 @@ The code is simple. Just add a col class to your image, and another class specif
 	  <img class="col two" src="/img/6.jpg"/>
 	  <img class="col one" src="/img/11.jpg"/>
 	</div>
+<br>
+<br>
+<a href="javascript:javascript:history.go(-1)">  <font size="13"> < </font> </a>

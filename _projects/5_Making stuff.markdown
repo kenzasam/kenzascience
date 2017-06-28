@@ -14,4 +14,4 @@ Trying to explore VR and projection mapping soon.
 </div>
 <br>
 <br>
-<FORM><INPUT Type="button" VALUE="<" onClick="history.go(-1);return true;"></FORM>
+<a href="javascript:javascript:history.go(-1)">  <font size="13"> < </font> </a>

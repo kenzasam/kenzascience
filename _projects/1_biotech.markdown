@@ -53,6 +53,6 @@ In collaboration with Foulab, we've been brewing fluorescent beer. We're working
 </div>
 <br>
 <br>
-<FORM><INPUT Type="button" VALUE="<" onClick="history.go(-1);return true;"></FORM>
-
+<a href="javascript:javascript:history.go(-1)">  <font size="13"> < </font> </a>
+<br>
 <br/><br/><br/>
