@@ -9,12 +9,9 @@ Portfolio of photography series.
 More photography can be found <a href="http://www.flickr.com/photos/inzaie" target="blank">here</a>.
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/a1.jpg" onmouseover="this.width=150" alt="" title=""/>
+	<img class="col one" src="{{ site.baseurl }}/img/a1.jpg" alt="" title=""/>
 	<img class="col one" src="{{ site.baseurl }}/img/a2.jpg" alt="" title=""/>
 	<img class="col one" src="{{ site.baseurl }}/img/a3.jpg" alt="" title=""/>
-</div>
-<div class="col three caption">
-	Analog landscape series. Minolta XG-2, Marexar 50mm f/2, on 35mm film.
 </div>
 
 <div class="img_row">

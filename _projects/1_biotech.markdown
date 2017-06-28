@@ -23,7 +23,8 @@ Get inspired by mushrooms, read <a href="https://www.amazon.com/Mycelium-Running
 
 <div class="img_row">
   <img class="col one" src="{{ site.baseurl }}/img/Myc4.jpeg" alt="" title="myc 3"/>
-	<img class="col two" src="{{ site.baseurl }}/img/Myc5.jpeg" alt="" title="myc 3"/>
+	<img class="col one" src="{{ site.baseurl }}/img/Myc5.jpeg" alt="" title="myc 3"/>
+  <img class="col one" src="{{ site.baseurl }}/img/Myc6.jpeg" alt="" title="myc 3"/>
 </div>
 
 <div class="col three caption">
