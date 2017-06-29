@@ -12,7 +12,9 @@ They can cover kilometers  underground,
  Yet here it is, tiny plentiful, under my microscope.
  <br>
  During my Masters degree, I studied Arbuscular Mycorrhizal fungi, and developed a fascination for these extremely complex living fossils, that went beyond my scientific knowledge. Growing them in vitro and studying them is magical.
-
+<br>
+Next goal: combining synthetic biology and information science applied on AM: Mycoengineering. Contact me if you're interested:)
+<br>
 How to save the world with mushrooms? Read <a href="https://www.amazon.com/Mycelium-Running-Mushrooms-Help-World/dp/1580085792" target="blank">this</a> book.
 
 <div class="img_row">

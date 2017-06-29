@@ -7,9 +7,6 @@ permalink: /about/
 
 <br/>
 
-
-
-
 Science communicator, entrepreneur, and bioengineer.
 Currently Montréal based biohacker at <a href="http://brico.bio" target="blank">Bricobio</a>, marketing manager at <a href="http://www.thebrane.com" target="blank">The Brane</a> and freelance biotech consultant.
 While completing a Masters degree in Bioscience Engineering at KULeuven, I've done research on Mycorrhizal fungi genetics at University of Montréal. Ow, I also travel all the time.
@@ -19,14 +16,12 @@ While completing a Masters degree in Bioscience Engineering at KULeuven, I've do
 
 Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them.}
 {% endcomment %}
-
-<br/>
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="https://twitter.com/kenzasaml" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="https://twitter.com/kenzasaml" target="blank"><i class="fa fa-twitter fa-fw"></i></a>
+	<a href="mailto:admin@kenza.science" target="blank"><i class="fa fa-envelope-o fa-fw fa--1x"></i></a>
 </span>
-
 <div class="col three caption">
-	Chat with me on Twitter
+	-
 </div>
