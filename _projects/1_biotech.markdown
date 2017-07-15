@@ -42,7 +42,6 @@ In collaboration with Foulab, we've been brewing fluorescent beer. We're working
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/beer1.jpeg" alt="" title=""/>
 </div>
-
 <br>
 <br>
 For brewing, we use transformed <i>S.cerevisiae</i>. The plan is to make a food safe transformed yeast strain that exports proteins that can trigger bioilluminescence in low quantity. I'm currently designing the yeast expression vector (2µ plasmid origin of replication, a ColE1 element, a marker gene (E. coli), a heterologous (methanol inducible) promoter, a termination signal and alpha-factor secretion leader peptide. )

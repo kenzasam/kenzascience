@@ -9,7 +9,8 @@ permalink: /about/
 
 Science communicator, entrepreneur, and bioengineer.
 Currently Montréal based biohacker at <a href="http://brico.bio" target="blank">Bricobio</a>, marketing manager at <a href="http://www.thebrane.com" target="blank">The Brane</a> and freelance biotech consultant.
-While completing a Masters degree in Bioscience Engineering at KULeuven, I've done research on Mycorrhizal fungi genetics at University of Montréal. Ow, I also travel all the time.
+While completing a Masters degree in Bioscience Engineering at KULeuven, I've done research on Mycorrhizal fungi genetics at University of Montréal. Currently looking forward to explore microfluidics, synbio, ecosystem engineers and gene drives.
+Also Belgian and travel addict.
 
 {% comment %}
 {link <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder.
