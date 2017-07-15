@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biotech
+title: Biotech & Research
 description: Science, DIYbio, Bioart, Microscopy & other
 img: /img/Myc4.jpeg
 ---
