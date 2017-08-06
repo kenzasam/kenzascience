@@ -50,9 +50,11 @@ display: line;
 }
 
 .header-bar{
-    left: 0px;
-    top: 0px;
-    position: relative;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
     font-size: 20px;
     display: block;
     opacity: 0.75;
@@ -226,7 +228,7 @@ top: 0;
 left: 0;
 bottom: 0;
 right: 0;
-background: rgba(0,0,0,0.4);
+background: rgba(0,0,0,0.6);
 color: $grey-color-light;
 padding: 40px;
 text-align: center;

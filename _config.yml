@@ -1,5 +1,5 @@
 # Site settings
-title: "kenza.science"
+title: "Kenza.Science"
 email: #
 description: "Innovation - Design - Biology - Policy"
 baseurl: # the subpath of your site, e.g. /blog/
@@ -22,7 +22,7 @@ collections:
     output: true
     permalink: /projects/:path/
   blog:
-    output: true
+    output:
     permalink: /Blog:path/
 
 defaults:

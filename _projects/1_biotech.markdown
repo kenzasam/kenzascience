@@ -2,7 +2,7 @@
 layout: post
 title: Biotech & Research
 description: Science, DIYbio, Bioart, Microscopy & other
-img: /img/Myc4.jpeg
+img: /img/Myc4.png
 ---
 <h3>Arbuscular Mycorrhiza</h3>
 <br>
