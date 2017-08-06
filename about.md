@@ -6,9 +6,9 @@ permalink: /about/
 
 <h4>K.S.</h4>
 <br>
-PhD Student ECEng<br>
+PhD ECEng<br>
 Microfluidics / Synthetic Biology <br>
-Concordia University
+Concordia University, Montréal, CA
 <br>
 <br>
 Bioengineer, science communicator, and entrepreneur.
