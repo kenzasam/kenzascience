@@ -7,14 +7,14 @@ permalink: /about/
 <h4>K.S.</h4>
 <br>
 PhD ECEng<br>
-Microfluidics / Synthetic Biology <br>
+Microfluidics & Synthetic Biology <br>
 Concordia University, Montréal, CA
 <br>
 <br>
 Bioengineer, science communicator, and entrepreneur.
-Biohacker at <a href="http://brico.bio" target="blank">Bricobio</a>, marketing manager at <a href="http://www.thebrane.com" target="blank">The Brane</a> and freelance biotech consultant.
+PhD Researcher at the <a href="http://users.encs.concordia.ca/~sshih/index.html" >Shih Microfluidics Lab</a>, biohacker at <a href="http://brico.bio" target="blank">Bricobio</a>, marketing and content manager at <a href="http://www.thebrane.com" target="blank">The Brane</a> and freelance biotech consultant.
 <br>
-Academic interests: Mycorrhizal fungi, microfluidics, synthetic biology, ecosystem engineering, gene drives.
+Academic interests: Microfluidics, synthetic biology, ecosystem engineering, gene drives, mycorrhizal fungi.
 <br>
 Other: travel, photography, outdoors
 <br>
