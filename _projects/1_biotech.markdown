@@ -4,6 +4,11 @@ title: Biotech & Research
 description: Science, DIYbio, Bioart, Microscopy & other
 img: /img/Myc4.png
 ---
+<h3>Microfluidics</h3>
+<br>
+Coming soon...
+<br>
+
 <h3>Arbuscular Mycorrhiza</h3>
 <br>
 They can cover kilometers  underground,
@@ -34,28 +39,37 @@ Mutated Arbuscular Mycorrhizal Fungi (AMF) <i>R.irregularis</i> DAOM197198
 </div>
 <br>
 <br>
-<h3>Bioilluminescent Beer</h3>
+<h3>DIY Biology</h3>
+<h4>Bioilluminescent Beer</h4>
 <br>
 Or Foulbeer Green Pale Ale.
-In collaboration with Foulab, we've been brewing fluorescent beer. We're working towards bioilluminescent beer.
+In collaboration with <a>href="https://foulab.org">Foulab<a/>, we've been brewing fluorescent beer with transformed yeast. That is nothing special... But... We're working towards bioilluminescent beer!
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/beer1.jpeg" alt="" title=""/>
 </div>
 <br>
 <br>
-For brewing, we use transformed <i>S.cerevisiae</i>. The plan is to make a food safe transformed yeast strain that exports proteins that can trigger bioilluminescence in low quantity. I'm currently designing the yeast expression vector (2µ plasmid origin of replication, a ColE1 element, a marker gene (E. coli), a heterologous (methanol inducible) promoter, a termination signal and alpha-factor secretion leader peptide. )
+For brewing, we use transformed <i>S.cerevisiae</i> (GFP). The plan is to make a food safe transformed yeast strain that exports proteins that can trigger bioilluminescence in low quantity. I'm currently designing the yeast expression vector (2µ plasmid origin of replication, a ColE1 element, a marker gene (E. coli), a heterologous (methanol inducible) promoter, a termination signal and alpha-factor secretion leader peptide. )
 
 <br>
 <br>
-<h3>Lab Equipment</h3>
+<h4>Other Ideas / Looking for collaborators</h4>
+<br>
+<br>
+Bacterial based photography Developer, Stripper<br>
+Chicken-of-the-woods, mushroom farming<br>
+Synbio Carmine dye synthesis
+<br>
+<br>
+<h4>DIY Lab Equipment</h4>
 <br>
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/centr1.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/centr2.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Selfmade centrifuge. 3D printed spinner, brushless DC motor, Arduino nano. Thanks to Bricobio, Foulab and Helios.
+	Selfmade centrifuge. 3D printed spinner, brushless DC motor, Arduino nano. Thanks to Bricobio, Foulab and Helios makerspace.
 </div>
 <br>
 <br>
