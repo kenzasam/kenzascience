@@ -16,7 +16,7 @@ PhD Researcher at the <a href="http://users.encs.concordia.ca/~sshih/index.html"
 <br>
 Academic interests: Microfluidics, synthetic biology, ecosystem engineering, gene drives, mycorrhizal fungi.
 <br>
-Other: Traveling (lots of it), outdoor activities and photography/art
+Other: Traveling (lots of it), outdoor activities and photography/art.
 <br>
 <br>
 <h4>Publications</h4>

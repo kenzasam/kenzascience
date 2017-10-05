@@ -40,10 +40,11 @@ Mutated Arbuscular Mycorrhizal Fungi (AMF) <i>R.irregularis</i> DAOM197198
 <br>
 <br>
 <h3>DIY Biology</h3>
+<br>
 <h4>Bioilluminescent Beer</h4>
 <br>
 Or Foulbeer Green Pale Ale.
-In collaboration with <a>href="https://foulab.org">Foulab<a/>, we've been brewing fluorescent beer with transformed yeast. That is nothing special... But... We're working towards bioilluminescent beer!
+In collaboration with <a href="https://foulab.org">Foulab<a/>, we've been brewing fluorescent beer with transformed yeast. That is nothing special... But... We're working towards bioilluminescent beer!
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/beer1.jpeg" alt="" title=""/>
