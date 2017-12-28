@@ -1,17 +1,17 @@
 ---
 layout: post
 title: Biotech & Research
-description: Science, DIYbio, Bioart, Microscopy & other
-img: /img/Myc4.png
+description: Science, DIYbio, Bioart, Microfluidics & other
+img: /img/Myc4.jpeg
 ---
 <h3>Microfluidics</h3>
 <br>
 Coming soon...
 <br>
-
+<br>
 <h3>Arbuscular Mycorrhiza</h3>
 <br>
-They can cover kilometers  underground,
+They can cover kilometres  underground,
  providing communication and nutrient exchange with plants,
  on such a large scale and with effects we can't even grasp yet.
  Yet here it is, tiny plentiful, under my microscope.
@@ -52,11 +52,8 @@ In collaboration with <a href="https://foulab.org">Foulab<a/>, we've been brewin
 <br>
 <br>
 For brewing, we use transformed <i>S.cerevisiae</i> (GFP). The plan is to make a food safe transformed yeast strain that exports proteins that can trigger bioilluminescence in low quantity. I'm currently designing the yeast expression vector (2µ plasmid origin of replication, a ColE1 element, a marker gene (E. coli), a heterologous (methanol inducible) promoter, a termination signal and alpha-factor secretion leader peptide. )
-
-<br>
 <br>
 <h4>Other Ideas / Looking for collaborators</h4>
-<br>
 <br>
 Bacterial based photography Developer, Stripper<br>
 Chicken-of-the-woods, mushroom farming<br>
@@ -70,7 +67,7 @@ Synbio Carmine dye synthesis
 	<img class="col one" src="{{ site.baseurl }}/img/centr2.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Selfmade centrifuge. 3D printed spinner, brushless DC motor, Arduino nano. Thanks to Bricobio, Foulab and Helios makerspace.
+	Selfmade centrifuge (3D printed spinner, brushless DC motor, Arduino nano), magnetic stirrer (Hard drive supermagnets, computer fan), Lab bench (polyurethane covered plywood). Thanks to Bricobio, Foulab and Helios makerspace.
 </div>
 <br>
 <br>

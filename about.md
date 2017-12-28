@@ -8,11 +8,15 @@ permalink: /about/
 <br>
 PhD ECEng<br>
 Microfluidics & Synthetic Biology <br>
+Shih Microfluidics Lab <br>
 Concordia University, Montréal, CA
 <br>
 <br>
 Bioengineer, science communicator, and entrepreneur.
 PhD Researcher at the <a href="http://users.encs.concordia.ca/~sshih/index.html" >Shih Microfluidics Lab</a>, biohacker at <a href="http://brico.bio" target="blank">Bricobio</a>, marketing manager at <a href="http://www.thebrane.com" target="blank">The Brane</a> and freelance biotech consultant.
+<br>
+<br>
+Feel like sending me an interesting ebook?<a href="mailto:kenzareads@kindle.com" target="blank">  (only .mobi files)</a>
 <br>
 Academic interests: Microfluidics, synthetic biology, ecosystem engineering, gene drives, mycorrhizal fungi.
 <br>
