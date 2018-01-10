@@ -1,13 +1,19 @@
-# *folio
+#Kenza.Science
+This website was built using p5.js and Jekyll.
+It is based on the Jekyll theme *folio. Of which the Readme can be found here.
+
+##p5.js
+
+A simple Java.Script library, built to expand on Processing. It is an easy way for everyone, to start creative coding.
+<a href="https://p5js.org">Read More</a>
+
+##*folio
 A simple theme for showcasing your work, emphasis on whitespace, transparency, and helvetica.
 
 
 <a href="http://liabogoev.com/-folio">Live Demo</a>
 
 <hr/>
-
-
-## Features
 
 ### Collections
 This Jekyll theme implements collections to let you break up your work into categories. The example is divided into poetry and portfolio, but easily revamp this into recipes, apps, short stories, limmericks, whatever your creative work is.
