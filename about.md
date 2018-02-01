@@ -20,12 +20,12 @@ Feel like sending me an interesting ebook?<a href="mailto:kenzareads@kindle.com"
 <br>
 Academic interests: Microfluidics, synthetic biology, ecosystem engineering, gene drives, mycorrhizal fungi.
 <br>
-Other: Traveling (lots of it), outdoor activities and photography/art.
+Other: Traveling (lots of it), outdoor adventures and photography/art.
 <br>
 <br>
 <h4>Publications</h4>
 <br>
-**2017**
+**2018**
 <br>
 <br>
 <h4>Thesis</h4>

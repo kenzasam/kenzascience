@@ -6,7 +6,12 @@ img: /img/Myc4.jpeg
 ---
 <h3>Microfluidics</h3>
 <br>
-Coming soon...
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/microfluidics.gif" alt="" title=""/>
+</div>
+<div class="col three caption">
+	Droplet-in-channel Microfluidics
+</div>
 <br>
 <br>
 <h3>Arbuscular Mycorrhiza</h3>
