@@ -4,18 +4,11 @@ title: Making & Design
 description: Design and stuff
 img: /img/des1.jpg
 ---
-I hang out in makerspaces and make stuff.<br>
-Trying to explore VR and projection mapping soon.<br>
-Renaissancist by heart, expressionist by art.<br>
-<br>
-<br>
-More soon...
 <br>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/TreeofLight2.gif" alt="" title="VR doodle"/>
-</div>
-<div class="col three caption">
-	Google Tilt Brush
+	<img class="col one" src="{{ site.baseurl }}/img/TreeofLight2.gif" alt="" title="VR doodle"/>
+	<img class="col one" src="{{ site.baseurl }}/img/" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/business.png" alt="" title="example image"/>
 </div>
 <br>
 <br>
@@ -27,8 +20,6 @@ The homepage shows a DNA sequence (currently MI transposon insertion flanking se
 <br>
 The homepage was made using Processing and <a href="https://p5js.org" target="blank">p5.js</a>.
 Processing is an easy to learn tool for creative coding and lets you draw onto a canvas using code, simply put. p5.js is based on Processing and allows you to transfer this canvas into a format that can be viewed online.
-<br>
-Tutorial will follow soon.
 <br>
 <!--
 Here, a short tutorial on how to display p5.js on Github hosted Jekyll sites (I found this quite challenging and not much info is out there on this topic.) <br>

@@ -10,7 +10,12 @@ Looking for a classicist science illustrator?
 <br>
 Wondering how you can design bacteria to produce some funky proteins?
 <br>
-Or in need of a biology workshop teacher (My first gmo, how to grow almost anything, biotech 101, fun with Fungi, science policy, creative science (makerspace techniques in the lab), biotech for kids, synthetic biology for your company,...) ?
+Or in need of a biology workshop teacher?
+  Past workshop:
+  - Hands on GMO detection workshop (critical evidence based thinking + biotech basics (pcr/gel))
+  - IoT 101: Wireless plant care and monitoring system
+  
+
 <br>
 Contact me!
 <br>
