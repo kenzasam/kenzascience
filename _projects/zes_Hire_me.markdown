@@ -6,7 +6,7 @@ img:
 ---
 I'm available for short term biotechnology projects.<br>
 <br>
-- Scientific consulting:
+- Scientific consulting: Synbio, Microfluidics, Mycorrhizal fungi
 - Scientific illustrating, poster design, data visualisation
 - Workshop teacher <br>
   Past workshop:
