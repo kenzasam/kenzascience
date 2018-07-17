@@ -13,7 +13,7 @@ img: /img/des1.jpg
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/motherwater1.jpg" alt="" title="VR doodle"/>
 	<img class="col one" src="{{ site.baseurl }}/img/motherwater2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/kombuhalamp.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/kombuchalamp.jpg" alt="" title="example image"/>
 </div>
 <br>
 <h3>About the homepage</h3>
