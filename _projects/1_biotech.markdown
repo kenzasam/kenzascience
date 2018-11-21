@@ -7,12 +7,16 @@ img: /img/Myc4.jpeg
 <h3>Microfluidics</h3>
 <br>
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/microfluidics.gif" alt="" title=""/>
+	<img class="col two" src="{{ site.baseurl }}/img/microfluidics1.gif" alt="" title=""/>
+</div>
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/microfluidics2.gif" alt="" title=""/>
 </div>
 <div class="col three caption">
 	Droplet-in-channel Microfluidics
 </div>
 <br>
+I'm currently developing microfluidics device (channel and digital microfluidics) for applications in synthetic biology at the Shih microfluidics lab.
 <br>
 <h3>Arbuscular Mycorrhiza</h3>
 <br>
