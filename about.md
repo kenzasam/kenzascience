@@ -12,8 +12,13 @@ Shih Microfluidics Lab <br>
 Concordia University, Montréal, CA
 <br>
 <br>
-Bioengineer, science communicator, and entrepreneur.
-PhD Researcher at the <a href="http://users.encs.concordia.ca/~sshih/index.html" >Shih Microfluidics Lab</a>, biohacker at <a href="http://brico.bio" target="blank">Bricobio</a>, marketing manager at <a href="http://www.thebrane.com" target="blank">The Brane</a> and freelance biotech consultant.
+Bioengineer, science communicator.
+PhD Researcher at the <a href="http://users.encs.concordia.ca/~sshih/index.html" >Shih Microfluidics Lab</a>, community manager and co-founder at <a href="http://brico.bio" target="blank">Bricobio</a>, your local Montréal DIYBio lab, and freelance biotech consultant. I'm also on the <a href="https://www.synbiocanada.org/" target="blank">SynBio Canada's</a> Steering Committee, involved with iGEM and <a href="https://www.concordia.ca/research/casb/training/igem.html" >iGEM Concordia</a>.
+<br>
+<br>
+For my day time job (PhD), I build cool things, like control systems that can make you play with cells and droplets on a chip.
+<br>
+Otherwise, I grow cool things, like Kombucha leather lamps, fermented mustard ...
 <br>
 <br>
 Feel like sending me an interesting ebook?<a href="mailto:kenzareads@kindle.com" target="blank">  (only .mobi files)</a>
@@ -35,7 +40,7 @@ Other: Traveling (lots of it), outdoor adventures and photography/art.
 <br/>
 <span class="contacticon center">
 	<a href="https://twitter.com/kenzasaml" target="blank"><i class="fa fa-twitter fa-fw"></i></a>
-	<a href="mailto:admin@kenza.science" target="blank"><i class="fa fa-envelope-o fa-fw fa--1x"></i></a>
+	<a href="mailto:kenza@brico.bio" target="blank"><i class="fa fa-envelope-o fa-fw fa--1x"></i></a>
 	<a href="https://linkedin.com/in/kenzasamlali" target="blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
 </span>
 <div class="col three caption">
