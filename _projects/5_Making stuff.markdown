@@ -36,7 +36,7 @@ I also currently provide the text (DNA sequence) as a separate txt file, placed 
 2. Add Processing and p5.js functionality to your sites
 Add <a href="https://github.com/kenzasam/kenzascience/blob/gh-pages/processing.js">this</a> processing.js file to your main repository.
 Add the following code to your header.html file:
-```HTML
+```
 {% assign p5_version = '0.5.16' %}
 {% if page.p5 %}
 	  {% for lib in page.p5 %}
@@ -46,7 +46,7 @@ Add the following code to your header.html file:
 This will add a new markdown class. Now you're basically able to mention in the markdown prematter, the p5 libraries you want to load on that page.
 3.
 Add this to your front matter of the page where you wish to display the canvas.
-```HTML
+```
 ---
 layout: default
 p5:
