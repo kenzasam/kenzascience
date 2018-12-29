@@ -44,7 +44,7 @@ How to save the world with mushrooms? Read <a href="https://www.amazon.com/Mycel
 </div>
 
 <div class="col three caption">
-Mutated Arbuscular Mycorrhizal Fungi (AMF) <i>R.irregularis</i> DAOM197198
+Mutated Arbuscular Mycorrhizal Fungi (AMF) *R.irregularis* DAOM197198
 </div>
 <br>
 <br>
