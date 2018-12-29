@@ -45,7 +45,8 @@ This will add a new markdown class. Now you're basically able to mention in the 
 3.
 Add this to your front matter of the page where you wish to display the canvas.
 <br>
-`---
+```
+---
 layout: default
 p5:
   - p5
@@ -53,7 +54,7 @@ p5:
 sketches:
   - sketch
 ---
-`
+```
 <br>
 <a href="javascript:javascript:history.go(-1)">  <font size="13"> < </font> </a>
 <br>
