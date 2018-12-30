@@ -61,9 +61,11 @@ function mouseMoved(){
   i = i+1;
  }
 
-
 function keyPressed(){
     if (keyCode==DELETE){
     background(255);
-  i=0;}
+    i=0;}
+    else if (keyCode==ENTER){
+    exit()
+    }
   }
