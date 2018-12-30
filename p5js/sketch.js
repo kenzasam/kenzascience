@@ -25,9 +25,9 @@ function setup() {
 
 }
 
-function keyPressed() {
-  clear();
-}
+//function keyPressed() {
+//  clear();
+//}
 
 function fileready(dna){
   //"https://github.com/kenzasam/kenzascience/blob/gh-pages/dna.txt");
@@ -54,18 +54,29 @@ function draw() {
 }
 
 function mouseMoved(){
-
- if (i == jdna.length){
+  if (i == jdna.length){
     i=0;
   }
   i = i+1;
- }
+}
 
 function keyPressed(){
-    if (keyCode==DELETE){
-    background(255);
-    i=0;}
-    else if (keyCode==ENTER){
-    exit()
-    }
+  if (keyCode==DELETE){
+      background(255);
+      i=0;
   }
+  if (key == ENTER | key == RETURN){
+    remove();
+  }   
+}
+
+
+//function keyPressed(){
+//    if (keyCode==DELETE){
+//    background(255);
+//    i=0;}
+//    else if (keyCode==ENTER){
+//      if (looping)  noLoop();
+//      else          loop();
+//    }
+//  }

@@ -29,7 +29,7 @@ They can cover kilometres  underground,
 <br>
 Next goal: combining synthetic biology and information science applied on AM: Mycoengineering. Contact me if you're interested:)
 <br>
-How to save the world with mushrooms? Read <a href="https://www.amazon.com/Mycelium-Running-Mushrooms-Help-World/dp/1580085792" target="blank">this</a> book.
+How to save the world with mushrooms? Read [this](https://www.amazon.com/Mycelium-Running-Mushrooms-Help-World/dp/1580085792) book.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/Myc1.jpeg" alt="" title=""/>
@@ -53,7 +53,7 @@ Mutated Arbuscular Mycorrhizal Fungi (AMF) *R.irregularis* DAOM197198
 <h4>Bioilluminescent Beer</h4>
 <br>
 Or Foulbeer Green Pale Ale.
-In collaboration with <a href="https://foulab.org">Foulab<a/>, we've been brewing fluorescent beer with transformed yeast. That is nothing special... But... We're working towards bioilluminescent beer!
+In collaboration with [Foulab](https://foulab.org), we've been brewing fluorescent beer with transformed yeast. That is nothing special... But... We're working towards bioilluminescent beer!
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/beer1.jpeg" alt="" title=""/>

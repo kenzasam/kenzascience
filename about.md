@@ -21,11 +21,11 @@ For my day time job (PhD), I build cool things, like control systems that can ma
 Otherwise, I grow cool things, like Kombucha leather lamps, fermented mustard ...
 <br>
 <br>
-Feel like sending me an interesting ebook?<a href="mailto:kenzareads@kindle.com" target="blank">  (only .mobi files)</a>
++ Feel like sending me an interesting ebook? [(only .mobi files)](mailto:kenzareads@kindle.com)
 <br>
-Academic interests: Microfluidics, synthetic biology, ecosystem engineering, gene drives, mycorrhizal fungi.
++ Academic interests: Microfluidics, synthetic biology, ecosystem engineering, gene drives, mycorrhizal fungi.
 <br>
-Other: Traveling (lots of it), outdoor adventures and photography/art.
++ Other: Traveling (lots of it), outdoor adventures and photography/art.
 <br>
 <br>
 <h4>Publications</h4>
