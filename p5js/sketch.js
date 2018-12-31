@@ -38,6 +38,9 @@ function fileready(dna){
 
 
 function draw() {
+  textFont('Ariel',10);
+  fill(200);
+  text("press DEL to clear canvas", 15, 80);
   // put drawing code here
   base = jdna.charAt(i);
   noFill();
@@ -50,6 +53,7 @@ function draw() {
   else {
       clr = clrT;}
   fill(clr);
+  textFont(f,24);
   text(base,mouseX,mouseY);
 }
 
@@ -61,13 +65,13 @@ function mouseMoved(){
 }
 
 function keyPressed(){
-  if (keyCode==DELETE){
+  if (key == DELETE){
       background(255);
       i=0;
   }
   if (key == ENTER | key == RETURN){
     remove();
-  }   
+  }
 }
 
 
