@@ -18,7 +18,7 @@ var counter;
 
 function preload(){
   dna = loadStrings('dna.txt', fileready);
-  largeunit = loadImage("largesubunit.png");
+  //largeunit = loadImage("largesubunit.png");
   //smallunit = loadImage("smallsubunit.tif");
 }
 
