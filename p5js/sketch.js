@@ -1,4 +1,5 @@
 var dna ;
+var jrna;
 var jdna ;
 var clr ;
 var f ;
@@ -7,11 +8,18 @@ var clrA='#91DFAA' ;
 var clrC='#5FACA3';
 var clrT='#1E796F';
 var clrG='#E35B96';
+var clrRNA;
 var base;
-var canvas
+var baseRNA;
+var canvas;
+var makeRNA;
+var startcodons=[];
+var counter;
 
 function preload(){
   dna = loadStrings('dna.txt', fileready);
+  largeunit = loadImage("largesubunit.png");
+  //smallunit = loadImage("smallsubunit.tif");
 }
 
 function setup() {
@@ -22,65 +30,109 @@ function setup() {
  smooth();
  //ackground(255);
  f = textFont('Ariel',26,true); // courrier, 16 point, anti-aliasing on;
-
+ //instructional text on top canvas
+ info=textFont('Ariel',10);
+ fill(200);
+ textFont(info);
+ text("press DEL to clear canvas", 15, 80);
+ text("Click & Drag to make RNA", 15, 100);
+ text("press ENTER to exit", 15, 60);
 }
-
-//function keyPressed() {
-//  clear();
-//}
-
+//
 function fileready(dna){
   //"https://github.com/kenzasam/kenzascience/blob/gh-pages/dna.txt");
   jdna = join(dna,'');
   console.log(jdna);
   console.log(jdna.length);
+  var rna1=jdna.replace(/A/g,"U");
+  var rna2=rna1.replace(/T/g,"A");
+  var rna3=rna2.replace(/C/g,"F");
+  var rna4=rna3.replace(/G/g,"C");
+  jrna=rna4.replace(/F/g,"G");
+  console.log(jrna);
+  console.log(jrna.length);
+  var idx = 0;
+  //console.log(jrna.indexOf("AUG"));
+  //make a list of all startsodon position indices
+  for (idx = 0; (idx = jrna.indexOf("AUG", idx)) >= 0; idx++){
+    startcodons.push(idx);
+  }
+  console.log(startcodons);
 }
-
-
+//
 function draw() {
-  textFont('Ariel',10);
-  fill(200);
-  text("press DEL to clear canvas", 15, 80);
-  // put drawing code here
+  //
   base = jdna.charAt(i);
+  baseRNA = jrna.charAt(i);
   noFill();
-  if (base =='G'){
-    clr = clrG;}
-  else if (base=='C'){
-   clr = clrC;}
-  else if (base=='A'){
-      clr = clrA ;}
-  else {
-      clr = clrT;}
-  fill(clr);
-  textFont(f,24);
-  text(base,mouseX,mouseY);
+  //DNA RNA drawing code
+  if (makeRNA){ //if RNA is TRUE my mousedragged...
+    textFont(f);
+    Basecolor(base);
+    text(base,mouseX,mouseY);
+    Basecolor(baseRNA);
+    text(baseRNA,mouseX,mouseY+17);
+    if (startcodons.includes(i)==true){
+      ellipse(mouseX, mouseY-random(5,3),25,35);
+    }
+  }else{ //just draw dna when mousemoved
+    textFont(f);
+    Basecolor(base);
+    text(base,mouseX,mouseY);
+  }//if AUG detected in rna then I should display Ribosomes. Bt I should also redraw the old ribosomes...
 }
+//
+function RibosomeBig(){
 
-function mouseMoved(){
+  x=
+  y=
+  image(largeunit,mouseX, mouseY-random(5,3));
+}
+//
+function RibosomeSmall(){
+  image(largeunit,mouseX, mouseY-4+random(-1,1));
+}
+//
+function Basecolor(base){
+  if (base =='G'){
+      clr = clrG;}
+  else if (base=='C'){
+     clr = clrC;}
+  else if (base=='A'){
+     clr = clrA ;}
+  else { // T or U
+     clr = clrT;}
+  fill(clr);
+}
+//
+function mouseDragged(){
+    //base = jdna.charAt(i);
+    //noFill();
+  makeRNA=true;
+  console.log('i just made rna = true')
   if (i == jdna.length){
-    i=0;
+      noLoop();
   }
   i = i+1;
 }
-
+//
+function mouseMoved(){
+  makeRNA=false;
+  console.log('i just made rna = false')
+  if (i == jdna.length){
+    noLoop();
+  }
+  i = i+1;
+}
+//
 function keyPressed(){
-  if (key == DELETE){
+  if ((keyIsPressed == true) && (keyCode === DELETE)){
       background(255);
       i=0;
+      Loop();
   }
-  if (key == ENTER | key == RETURN){
+  if ((keyIsPressed == true) && (keyCode === ENTER | keyCode == RETURN)){
+    noLoop();
     remove();
   }
 }
-
-
-//function keyPressed(){
-//    if (keyCode==DELETE){
-//    background(255);
-//    i=0;}
-//    else if (keyCode==ENTER){
-//      if (looping)  noLoop();
-//      else          loop();
-//    }
-//  }
