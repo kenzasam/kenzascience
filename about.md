@@ -35,6 +35,7 @@ Other: Traveling (lots of it), outdoor adventures and photography/art.
 <br>
 **2018**
 <br>
+Ahmadi F., Samlali K., Vo PQS, Shih S.C.C. (2019). An integrated droplet-digital microfluidic system for on-demand droplet creation, mixing, incubation, and sorting. Lab Chip, DOI: 10.1039/c8lc01170b.
 <br>
 <h4>Thesis</h4>
 <br>
