@@ -126,7 +126,7 @@ function mouseMoved(){
 }
 //
 function keyPressed(){
-  if ((keyIsPressed == true) && (keyCode === DELETE)){
+  if ((keyIsPressed == true) && (keyCode === DELETE | keyCode == BACKSPACE)){
       background(255);
       i=0;
       Loop();
