@@ -13,7 +13,7 @@ Concordia University, Montréal, CA
 <br>
 <br>
 Bioengineer, science communicator.
-PhD Researcher at the <a href="http://users.encs.concordia.ca/~sshih/index.html" >Shih Microfluidics Lab</a>, community manager and co-founder at <a href="http://brico.bio" target="blank">Bricobio</a>, your local Montréal DIYBio lab, and freelance biotech consultant. I'm also on the <a href="https://www.synbiocanada.org/" target="blank">SynBio Canada's</a> Steering Committee, involved with iGEM and <a href="https://www.concordia.ca/research/casb/training/igem.html" >iGEM Concordia</a>.
+PhD Researcher at the [Shih Microfluidics Lab](http://users.encs.concordia.ca/~sshih/index.html), community manager and co-founder at [Bricobio](http://brico.bio), your local Montréal DIYBio lab, resident at the [Speculative Life BioLab](https://speculativelifebiolab.com/) and freelance biotech consultant. I'm also on the [SynBio Canada's](https://www.synbiocanada.org/) Steering Committee, involved with [iGEM](www.igem.org) and [iGEM Concordia](https://www.concordia.ca/research/casb/training/igem.html) mentor.
 <br>
 <br>
 For my day time job (PhD), I build cool things, like control systems that can make you play with cells and droplets on a chip.
