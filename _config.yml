@@ -7,6 +7,9 @@ url:  "https://kenza.science"
 twitter_username: kenzasaml
 github_username: #
 
+#Google Analytics:
+google_analytics: UA-38583877-3
+
 # Build settings
 markdown: kramdown
 
