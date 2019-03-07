@@ -50,6 +50,13 @@ Mutated Arbuscular Mycorrhizal Fungi (AMF) *R.irregularis* DAOM197198
 <br>
 <h3>DIY Biology</h3>
 <br>
+<h4>Biomaterials</h4>
+<br>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/biomat1.jpeg" alt="" title=""/>
+</div>
+Currently working on a project at Bricobio where we are trying to improve the structural properties of bacterial cellulose biofilm by stabilizing a foreign bacteria in the community.
+<br>
 <h4>Bioilluminescent Beer</h4>
 <br>
 Or Foulbeer Green Pale Ale.
