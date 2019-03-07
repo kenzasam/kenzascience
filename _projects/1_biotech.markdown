@@ -7,9 +7,6 @@ img: /img/Myc4.jpeg
 <h3>Microfluidics</h3>
 <br>
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/microfluidics1.gif" alt="" title=""/>
-</div>
-<div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/microfluidics2.gif" alt="" title=""/>
 </div>
 <div class="col three caption">
@@ -53,7 +50,7 @@ Mutated Arbuscular Mycorrhizal Fungi (AMF) *R.irregularis* DAOM197198
 <h4>Biomaterials</h4>
 <br>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/biomat1.jpeg" alt="" title=""/>
+	<img class="col three" src="{{ site.baseurl }}/img/biomat1.jpg" alt="" title=""/>
 </div>
 Currently working on a project at Bricobio where we are trying to improve the structural properties of bacterial cellulose biofilm by stabilizing a foreign bacteria in the community.
 <br>
