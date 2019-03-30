@@ -1,8 +1,12 @@
+//by Kenza Samlali, 2019
+// PROJECT NAME: Alleles
+// ABOUT: p5.js with search function for NCBI database, data visualisation.
+// This script is active on www.kenza.science/projects/Alleles
+
 var dna;
-var fastatitle;
 var jrna=[];
 var jdna=[];
-var clrA='#91DFAA' ;
+var clrA='#91DFAA';
 var clrC='#5FACA3';
 var clrT='#1E796F';
 var clrG='#E35B96';
@@ -26,7 +30,7 @@ var startdrawing;
 var apibase="https://eutils.ncbi.nlm.nih.gov/entrez/eutils/";
 var apikey="&api_key=67440c4bd547d9933874db2cfb7810390d08";
 var fastafile;
-
+var fastatitle;
 /*
 function preload(){
   largeunit = loadImage("largesubunit.png");
@@ -56,18 +60,20 @@ function draw() {
   background(230);
   fill(100);
   textFont(info);
-  text("Search for an organism!", 15, 80);
-  text("Mouve mouse to draw DNA", 15, 100);
-  text("Click & Drag to make RNA", 15, 120);
-  text("press SPACEBAR to clear canvas", 15, 140);
+  text("Search for an organism, tissue, ... f.e. mus musculus!", 15, 80);
+  text("Move your mouse to draw DNA, click & drag to make RNA", 15, 100);
+  //text("press SPACEBAR to clear canvas", 15, 140);
 
   if (startdrawing){
     //console.log('heloooooooo')
+    fill(100);
+    textFont(info);
+    text("We found this: " +fastatitle, 15, 140);
     dnabase = jdna.charAt(i);
     rnabase = jrna.charAt(i);
     noFill();
     //DNA RNA drawing code
-    if (makeRNA){ //if RNA is TRUE my mousedragged...
+    if (makeRNA){ //if RNA is TRUE , mouse is dragged...
       basetrail.update(dnabase);
       basetrail.show(dnabase);
       basetrailrna.update(rnabase);
@@ -84,7 +90,7 @@ function draw() {
         console.log('boo');
       }
       */
-    }else{ //just draw dna when mousemove
+    }else{ //just draw dna when mousemove (no dragging)
       basetrail.update(dnabase);
       basetrail.show(dnabase);
       basetrailrna.show(rnabase);
@@ -118,8 +124,8 @@ function gotData(fastafile){
   console.log('Found something! Fetching organism FASTA...');
   console.log(fastafile);
   nucdatahere=fastafile;
-  if (nucdatahere){
-    var fastatitle=fastafile[0];
+  if (nucdatahere){ // found something though NCBI, and thus startdrawing == TRUE
+    fastatitle=fastafile[0];
     console.log('This is what I found:')
     console.log(fastatitle)
     var rawdna=fastafile.slice(1);

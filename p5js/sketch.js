@@ -32,8 +32,9 @@ function setup() {
  info=textFont('Ariel',10);
  fill(200);
  textFont(info);
- text("press SPACE to clear canvas", 15, 100);
- text("Click & Drag to make RNA", 15, 120);
+ //text("press SPACE to clear canvas", 15, 100);
+ text("Move mouse to draw DNA, click & drag to make RNA", 15, 100);
+ text("Explore the full version!! ./projects/alleles", 15, 120);
 }
 //
 function fileready(dna){
