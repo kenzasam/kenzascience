@@ -11,10 +11,16 @@ img: /img/des1.jpg
 	<img class="col one" src="{{ site.baseurl }}/img/tabular.gif" alt="" title="example image"/>
 </div>
 <br>
+<h3>Biodesign</h3>
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/motherwater1.jpg" alt="" title="VR doodle"/>
 	<img class="col one" src="{{ site.baseurl }}/img/motherwater2.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/kombuchalamp.jpg" alt="" title="example image"/>
+</div>
+<br>
+<h3>Illustrations</h3>
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/sci_ill_1.png" alt="" title=""/>
 </div>
 <br>
 <h3>About ALLE(LE)S</h3>
