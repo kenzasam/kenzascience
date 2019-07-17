@@ -23,7 +23,7 @@ img: /img/des1.jpg
 	<img class="col one" src="{{ site.baseurl }}/img/sci_ill_1.png" alt="" title=""/>
 </div>
 <br>
-<h3>About ALLE(LE)S</h3>
+<h3>Creative coding</h3>
 <br>
 The homepage shows a DNA sequence (currently MI transposon insertion flanking sequence of *Drosophila melanogaster*) that you can draw out using your cursor. You can explore the full version of this project [here](/alleles.html).
 <br>
@@ -44,20 +44,20 @@ To be able to show this p5 canvas on your Github hosted Jekyll site, you can fol
 1. Make a p5js folder in your Jekyll repository, containing your sketch file. You can find my sketch file [here](https://github.com/kenzasam/kenzascience/blob/gh-pages/p5js/sketch.js). I also currently provide the text (DNA sequence) as a separate txt file, placed in my main Jekyll repository.
 2. Add Processing and p5.js functionality to your sites. Add [this](https://github.com/kenzasam/kenzascience/blob/gh-pages/processing.js) processing.js file to your main repository.
     Add the following code to your header.html file:
-
-		```
+    
+    ```
     {% assign p5_version = '0.5.16' %}
     {% if page.p5 %}
        {% for lib in page.p5 %}
        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/{{ p5_version }}/{{ lib }}.js"></script>
        {% endfor %}
-    {% endif %}
-		```
+    {% endif %} 
+    ```
 
     This will add a new markdown class. Now you're basically able to mention in the markdown prematter, the p5 libraries you want to load on that page.
 3. Add this to your front matter of the page where you wish to display the canvas.
 
-		 ```
+    ```
 		 ---
      layout: default
      p5:
@@ -66,7 +66,7 @@ To be able to show this p5 canvas on your Github hosted Jekyll site, you can fol
      sketches:
       - sketch
 		 ---
-		 ```
+    ```
 
 <br>
 <br>
