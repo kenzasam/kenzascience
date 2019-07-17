@@ -58,14 +58,14 @@ To be able to show this p5 canvas on your Github hosted Jekyll site, you can fol
 3. Add this to your front matter of the page where you wish to display the canvas.
 
     ```
-		 ---
+     ---
      layout: default
      p5:
       - p5
       - addons/p5.dom
      sketches:
       - sketch
-		 ---
+     ---
     ```
 
 <br>
