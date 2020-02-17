@@ -1,19 +1,21 @@
 ---
 layout: post
 title: Biotech & Research
-description: Science, DIYbio, Bioart, Microfluidics & more
+description: Synbio, Bioart, Microfluidics & more
 img: /img/Myc4.jpeg
 ---
 <h3>Microfluidics</h3>
 <br>
+I'm currently developing microfluidic devices (channel and digital microfluidics) for applications in synthetic biology at the Shih microfluidics lab.
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/microfluidics2.gif" alt="" title=""/>
+	<img class="col one" src="{{ site.baseurl }}/img/microfluidics2.gif"/>
+	<img class="col two" src="{{ site.baseurl }}/img/micro2.gif"/>
 </div>
 <div class="col three caption">
 	Droplet-in-channel Microfluidics
 </div>
 <br>
-I'm currently developing microfluidic devices (channel and digital microfluidics) for applications in synthetic biology at the Shih microfluidics lab.
+
 <br>
 <h3>Arbuscular Mycorrhiza</h3>
 <br>

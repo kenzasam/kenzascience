@@ -25,7 +25,7 @@ Otherwise, I grow cool things, like Kombucha leather lamps, fermented mustard ..
 Feel like sending me an interesting ebook? [(only .mobi files)](mailto:kenzareads@kindle.com)
 <br>
 
-Academic interests: Microfluidics, synthetic biology, ecosystem engineering, gene drives, mycorrhizal fungi.
+Academic interests: Microfluidics, (mammalian) synthetic biology, ecosystem engineering, gene drives, mycorrhizal fungi.
 <br>
 
 Other: Traveling (lots of it), outdoor adventures and photography/art.
@@ -33,7 +33,11 @@ Other: Traveling (lots of it), outdoor adventures and photography/art.
 <br>
 <h4>Publications</h4>
 <br>
-**2018**
+**2020**
+<br>
+Samlali K., Ahmadi F., Quach A. B. V., Soffer G., Shih, S.C.C. (2020). One cell, one drop, one click: Hybrid microfluidic mammalian single-cell isolation. BioRxiv, [DOI: 10.1101/2020.01.24.908202](https://doi.org/10.1101/2020.01.24.908202).
+<br>
+**2019**
 <br>
 Ahmadi F., Samlali K., Vo PQS, Shih S.C.C. (2019). An integrated droplet-digital microfluidic system for on-demand droplet creation, mixing, incubation, and sorting. Lab Chip, [DOI: 10.1039/c8lc01170b](https://pubs.rsc.org/en/content/articlelanding/2019/lc/c8lc01170b).
 <br>
