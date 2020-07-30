@@ -15,6 +15,7 @@ I'm currently developing microfluidic devices (channel and digital microfluidics
 	Droplet-in-channel Microfluidics
 </div>
 <br>
+<iframe  title="Single cell encapsulation" width="480" height="390" src="{{ site.baseurl }}/img/microfluidics.mp4" frameborder="0" allowfullscreen></iframe>
 
 <br>
 <h3>Arbuscular Mycorrhiza</h3>
