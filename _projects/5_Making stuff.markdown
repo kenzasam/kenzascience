@@ -24,6 +24,7 @@ img: /img/des1.jpg
 <h3>Illustrations</h3>
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/sci_ill_1.png" alt="" title=""/>
+	<img class="col two" src="{{ site.baseurl }}/img/Cover 4.jpg" alt="" title=""/>
 </div>
 <br>
 <h3>Other</h3>
