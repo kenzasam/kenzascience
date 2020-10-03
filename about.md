@@ -34,14 +34,13 @@ Other: Traveling (lots of it), outdoor adventures and photography/art.
 <h4>Publications</h4>
 <br>
 **2020**
-<br>
-Samlali K., Ahmadi F., Quach A. B. V., Soffer G., Shih, S.C.C. (2020). One cell, one drop, one click: Hybrid microfluidic mammalian single-cell isolation. Small, [DOI: n/a early view]( https://doi.org/10.1002/smll.202002400).
 
-<br>
+Samlali K., Ahmadi F., Quach A. B. V., Soffer G., Shih, S.C.C. (2020). One cell, one drop, one click: Hybrid microfluidic mammalian single-cell isolation. Small, [DOI:10.1002/smll.202002400]( https://doi.org/10.1002/smll.202002400).
+
 Samlali K., Ahmadi F., Quach A. B. V., Soffer G., Shih, S.C.C. (2020). One cell, one drop, one click: Hybrid microfluidic mammalian single-cell isolation. BioRxiv, [DOI: 10.1101/2020.01.24.908202](https://doi.org/10.1101/2020.01.24.908202).
-<br>
+
 **2019**
-<br>
+
 Ahmadi F., Samlali K., Vo PQS, Shih S.C.C. (2019). An integrated droplet-digital microfluidic system for on-demand droplet creation, mixing, incubation, and sorting. Lab on Chip, [DOI: 10.1039/c8lc01170b](https://pubs.rsc.org/en/content/articlelanding/2019/lc/c8lc01170b).
 <br>
 <div class="img_row">
