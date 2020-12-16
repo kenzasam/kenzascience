@@ -34,9 +34,15 @@ Other: Traveling (lots of it), outdoor adventures and photography/art.
 <h4>Publications</h4>
 <br>
 **2020**
+Little, S. R., Perry, J. M., Samlali, K., & Shih, S. C. C. (2020). CHAPTER 8: Droplet Microfluidics: Applications in Synthetic Biology. In *Droplet Microfluidics* (pp. 193–222).
+<br>
 
-Samlali K., Ahmadi F., Quach A. B. V., Soffer G., Shih, S.C.C. (2020). One cell, one drop, one click: Hybrid microfluidic mammalian single-cell isolation. Small, [DOI:10.1002/smll.202002400]( https://doi.org/10.1002/smll.202002400).
-
+Samlali K., Ahmadi F., Quach A. B. V., Soffer G., Shih, S.C.C. (2020). One cell, one drop, one click: Hybrid microfluidic mammalian single-cell isolation. SMALL,16(34), 2002400 [DOI:10.1002/smll.202002400]( https://doi.org/10.1002/smll.202002400).
+<br>
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/small_summary.png" alt="" title=""/>
+</div>
+<br>
 Samlali K., Ahmadi F., Quach A. B. V., Soffer G., Shih, S.C.C. (2020). One cell, one drop, one click: Hybrid microfluidic mammalian single-cell isolation. BioRxiv, [DOI: 10.1101/2020.01.24.908202](https://doi.org/10.1101/2020.01.24.908202).
 
 **2019**
