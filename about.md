@@ -4,7 +4,7 @@ title: Kenza
 permalink: /about/
 ---
 
-## Kenza S.
+### Kenza S.
 
 PhD ECEng
 Microfluidics & Synthetic Biology
@@ -26,7 +26,7 @@ Academic interests: Microfluidics, (mammalian) synthetic biology, ecosystem engi
 
 Other: Traveling, outdoor adventures and photography/art.
 
-## Publications
+### Publications
 **2021**
 
 Davis, A. N., Samlali, K., Kapadia, J. B., Perreault, J., Shih, S. C. C., & Kharma, N. (2021). Digital Microfluidics Chips for the Execution and Real-Time Monitoring of Multiple Ribozymatic Cleavage Reactions. ACS Omega, 6(35), 22514–22524. [DOI](https://doi.org/10.1021/acsomega.1c00239) 
@@ -55,13 +55,15 @@ Ahmadi F., Samlali K., Vo PQS, Shih S.C.C. (2019). An integrated droplet-digital
 </div>
 <br>
 
-## Talks
+### Talks
+
+EIMC 2021
 
 SLAS 2020
 
 uTAS 2019
 
-## Thesis
+### Thesis
 
 **M. Sc. Thesis**. Samlali, K. Development of an EMS based random mutagenesis method of arbuscular mycorrhizal fungus (AMF) R.irregularis DAOM-197198 for industrial applications and mycorrhizal research. Faculty of Bioscience Engineering - KU Leuven
 <hr/>
