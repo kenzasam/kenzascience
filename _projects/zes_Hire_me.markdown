@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Hire me!
-description: Freelance biotech consultant // Science communicator
+description: Freelance biotech consultant // science communicator
 img:
 ---
-I'm available for short term biotechnology projects.<br>
+I'm available for consulting in the following areas.<br>
 <br>
-- Scientific consulting: Synbio, Microfluidics, agri tech
-- Scientific illustrating, poster design, data visualisation
-- Workshop teacher <br>
-  Past workshop:
+- Scientific consulting: microfluidics product development, genetic engineering and design. 
+- Data visualisation and Scientific illustrating
+- Science communicator and Workshop teacher <br>
+  Past Youth workshop:
   - Hands on GMO detection workshop
   - How to grow my first GMO (kids)
   - IoT 101: Wireless plant care and monitoring system
