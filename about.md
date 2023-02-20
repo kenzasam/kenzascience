@@ -9,8 +9,7 @@ permalink: /about/
 Ph.D., ir.
 Microfluidics & Synthetic Biology
 
-
-I received my Ph.D. from Concordia University in 2022, researching microfluidics for applications in synthetic biology at the [Shih Microfluidics Lab](http://users.encs.concordia.ca/~sshih/index.html). Currently, I hold a position at Alvea as a business developer and clinical product development lead. I'm commited to working on projects that make this world a safer place, through biosecurity (biological threaths, global health, community biology, open science and hardware) . I'm a community manager at [Bricobio](http://brico.bio). I also hold a board position at [SynBio Canada](https://www.synbiocanada.org/), and act in [iGEM](www.igem.org)HQ as judge and Safety and Security Commitee member.
+I received my Ph.D. from Concordia University in 2022, researching microfluidics for applications in synthetic biology at the [Shih Microfluidics Lab](http://users.encs.concordia.ca/~sshih/index.html). Currently, I hold a position at [Alvea](http://alvea.bio) as a business developer and clinical product development lead. I'm commited to working on projects that make this world a safer place, through biosecurity (biological threaths, global health, community biology, open science and hardware) . I'm a community manager at [Bricobio](http://brico.bio). I also hold a board position at [SynBio Canada](https://www.synbiocanada.org/), and act in [iGEM](www.igem.org)HQ as judge and Safety and Security Commitee member.
 
 Into growing things and building things.
 
@@ -21,6 +20,7 @@ Academic interests: Microfluidics, synthetic biology, ecosystem engineering, gen
 Other: Traveling, outdoor adventures and photography/art.
 
 ### Publications
+
 #### 2022
 - Samlali, K., Alves, C. L., Jezernik, M., & Shih, S. C. (2022). Droplet digital microfluidic system for screening filamentous fungi based on enzymatic activity. Microsystems & Nanoengineering, 8(1), 123.
 - Samlali, K., Thornbury, M., & Venter, A. (2022). Community-led risk analysis of direct-to-consumer whole-genome sequencing. Biochemistry and Cell Biology, 100(6), 499-509.
