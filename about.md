@@ -9,15 +9,12 @@ permalink: /about/
 Ph.D., ir.
 Microfluidics & Synthetic Biology
 
-I received my Ph.D. from Concordia University in 2022, researching microfluidics for applications in synthetic biology at the [Shih Microfluidics Lab](http://users.encs.concordia.ca/~sshih/index.html). Currently, I hold a position at [Alvea](http://alvea.bio) as a business developer and clinical product development lead. I'm commited to working on projects that make this world a safer place, through biosecurity (biological threaths, global health, community biology, open science and hardware) . I'm a community manager at [Bricobio](http://brico.bio). I also hold a board position at [SynBio Canada](https://www.synbiocanada.org/), and act in [iGEM](www.igem.org)HQ as judge and Safety and Security Commitee member.
+As a Bio-engineer with proactive and creative problem-solving approach, I thrive in high-stakes environments that demand operational excellence working with multidisciplinary teams. 
+I received my Ph.D. from Concordia University in 2022, researching microfluidics for applications in synthetic biology at the [Shih Microfluidics Lab](http://users.encs.concordia.ca/~sshih/index.html). After this, I worked with the team at [Alvea](http://alvea.bio) as a clinical product development lead. I'm commited to working on projects that make this world a safer place, through biosecurity (biological threaths, global health, community biology, open science and hardware) . I'm a community manager at [Bricobio](http://brico.bio). I also hold a board position at [SynBio Canada](https://www.synbiocanada.org/), and act as a judge and Safety and Security Commitee member at [iGEM](www.igem.org)HQ .
 
-Into growing things and building things.
+Into growing, building, and breaking things when necessary :)
 
-Feel like sending me an interesting ebook? [(only .mobi files)](mailto:kenzareads@kindle.com)
-
-Academic interests: Microfluidics, synthetic biology, ecosystem engineering, gene drives, food security, biosecurity and global health.
-
-Other: Traveling, outdoor adventures and photography/art.
+Research interests: Microfluidics, synthetic biology, open science, food security, genetic privacy and global health.
 
 ### Publications
 
