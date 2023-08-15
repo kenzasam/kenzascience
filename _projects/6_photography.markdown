@@ -6,7 +6,6 @@ img: /img/p1.jpg
 ---
 
 Portfolio of photography series.
-More photography can be found <a href="http://www.flickr.com/photos/inzaie" target="blank">here</a>.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/a1.jpg" alt="" title=""/>
