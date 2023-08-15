@@ -10,20 +10,21 @@ Ph.D., ir.
 Microfluidics & Synthetic Biology
 
 As a Bio-engineer with proactive and creative problem-solving approach, I thrive in high-stakes environments that demand operational excellence working with multidisciplinary teams. 
-I received my Ph.D. from Concordia University in 2022, researching microfluidics for applications in synthetic biology at the [Shih Microfluidics Lab](http://users.encs.concordia.ca/~sshih/index.html). After this, I worked with the team at [Alvea](http://alvea.bio) as a clinical product development lead. I'm commited to working on projects that make this world a safer place, through biosecurity (biological threaths, global health, community biology, open science and hardware) . I'm a community manager at [Bricobio](http://brico.bio). I also hold a board position at [SynBio Canada](https://www.synbiocanada.org/), and act as a judge and Safety and Security Commitee member at [iGEM](www.igem.org) HQ.
+I received a BSc + MSc in Bioengineering from KU Leuven, and a Ph.D. from Concordia University in 2022, researching microfluidics for applications in synthetic biology at the [Shih Microfluidics Lab](http://users.encs.concordia.ca/~sshih/index.html). I then worked with the team at [Alvea](http://alvea.bio) as a clinical product development lead. I'm commited to working on projects that make this world a safer place, through biosecurity (biological threath reductiont, global health, community biology, open science and hardware) . I'm a community manager at [Bricobio](http://brico.bio), hold a board position at [SynBio Canada](https://www.synbiocanada.org/), and act as a judge and Safety and Security Commitee member at [iGEM](www.igem.org) HQ.
 
 Into growing, building, and breaking things when necessary :)
 
 Research interests: Microfluidics, synthetic biology, open science, food security, genetic privacy and global health.
 
-### Publications
+#### Publications
 
-- Samlali, K., Alves, C. L., Jezernik, M., & Shih, S. C. (2022). Droplet digital microfluidic system for screening filamentous fungi based on enzymatic activity. Microsystems & Nanoengineering, 8(1), 123.
-- Samlali, K., Thornbury, M., & Venter, A. (2022). Community-led risk analysis of direct-to-consumer whole-genome sequencing. Biochemistry and Cell Biology, 100(6), 499-509.
-- Davis, A. N., Samlali, K., Kapadia, J. B., Perreault, J., Shih, S. C. C., & Kharma, N. (2021). Digital Microfluidics Chips for the Execution and Real-Time Monitoring of Multiple Ribozymatic Cleavage Reactions. ACS Omega, 6(35), 22514–22524. [DOI](https://doi.org/10.1021/acsomega.1c00239) 
-- Little, S. R., Perry, J. M., Samlali, K., & Shih, S. C. C. (2020). CHAPTER 8: Droplet Microfluidics: Applications in Synthetic Biology. In *Droplet Microfluidics* (pp. 193–222).
-- Samlali K., Ahmadi F., Quach A. B. V., Soffer G., Shih, S.C.C. (2020). One cell, one drop, one click: Hybrid microfluidic mammalian single-cell isolation. SMALL,16(34), 2002400. [DOI](https://doi.org/10.1002/smll.202002400).
-- Ahmadi F., Samlali K., Vo PQS, Shih S.C.C. (2019). An integrated droplet-digital microfluidic system for on-demand droplet creation, mixing, incubation, and sorting. Lab on Chip. [DOI](https://pubs.rsc.org/en/content/articlelanding/2019/lc/c8lc01170b).
+- Samlali K., Alves C. L., Jezernik M., & Shih S. C. (2022). Droplet digital microfluidic system for screening filamentous fungi based on enzymatic activity. Microsystems & Nanoengineering, 8(1), 123. [here](https://www.nature.com/articles/s41378-022-00456-1)
+- Samlali K., Thornbury M., & Venter A. (2022). Community-led risk analysis of direct-to-consumer whole-genome sequencing. Biochemistry and Cell Biology, 100(6), 499-509. [here](https://cdnsciencepub.com/doi/10.1139/bcb-2021-0506)
+- Davis, A. N., Samlali, K., Kapadia, J. B., Perreault, J., Shih, S. C. C., & Kharma, N. (2021). Digital Microfluidics Chips for the Execution and Real-Time Monitoring of Multiple Ribozymatic Cleavage Reactions. ACS Omega, 6(35), 22514–22524. [here](https://doi.org/10.1021/acsomega.1c00239)
+- Samlali K., Stern J., Nduhuura E., (2021). Towards Responsible Genomic Surveillance: a Review of Biosecurity and Dual-use Regulation. Nuclear Threat Initiative. [here](https://www.nti.org/wp-content/uploads/2021/11/Towards-Responsible-Genomic-Surveillance_Final.pdf)
+- Little S. R., Perry J. M., Samlali K., & Shih S. C. C. (2020). Chapter 8: Droplet Microfluidics: Applications in Synthetic Biology. In *Droplet Microfluidics* (pp. 193–222). [here](https://books.rsc.org/books/edited-volume/864/chapter-abstract/626895/Droplet-Microfluidics-Applications-in-Synthetic?redirectedFrom=fulltext)
+- Samlali K., Ahmadi F., Quach A. B. V., Soffer G., Shih, S.C.C. (2020). One cell, one drop, one click: Hybrid microfluidic mammalian single-cell isolation. SMALL,16(34), 2002400. [here](https://doi.org/10.1002/smll.202002400).
+- Ahmadi F., Samlali K., Vo P.Q.S., Shih S.C.C. (2019). An integrated droplet-digital microfluidic system for on-demand droplet creation, mixing, incubation, and sorting. Lab on Chip. [here](https://pubs.rsc.org/en/content/articlelanding/2019/lc/c8lc01170b).
 
 #### Talks
 - EIMC 2021
