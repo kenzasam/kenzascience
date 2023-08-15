@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Portfolio
-description: Portfolio
+description: Portfolio of design and creative projects
 img: /img/des1.jpg
 ---
 
