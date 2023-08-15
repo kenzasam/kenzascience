@@ -21,15 +21,8 @@ img: /img/des1.jpg
 			<img class="col one" src="{{ site.baseurl }}/img/4space5.jpg" />
 </div>
 <br>
-<h3>Illustrations</h3>
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/sci_ill_1.png" alt="" title=""/>
-	<img class="col one" src="{{ site.baseurl }}/img/Cover 4.jpg" alt="" title=""/>
-</div>
-<br>
 
 ### Photography
-
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/a1.jpg" alt="" title=""/>
 	<img class="col one" src="{{ site.baseurl }}/img/a2.jpg" alt="" title=""/>
@@ -56,7 +49,7 @@ Yashinon auto DX 50mm f/2.0 (M42)
 Super Marexar 28mm f/2.8 (M42)
 Minolta MD Rokkor 50mm f/1.8
 	
-### Computational arts & Creative code</h3>
+### Computational arts & Creative code
 <br>
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/TreeofLight2.gif" alt="" title="VR doodle"/>
@@ -75,6 +68,11 @@ The interactive visualisation, allows you to search and draw out any DNA sequenc
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/business.png" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/tabular.gif" alt="" title="example image"/>
+</div>
+<br>
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/img/sci_ill_1.png" alt="" title=""/>
+	<img class="col one" src="{{ site.baseurl }}/img/Cover 4.jpg" alt="" title=""/>
 </div>
 <br>
 <a href="javascript:javascript:history.go(-1)">  <font size="15"> < </font> </a>
