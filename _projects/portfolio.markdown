@@ -6,6 +6,7 @@ img: /img/des1.jpg
 ---
 
 ### Biodesign
+
 <div class="img_row">
 			<img class="col one" src="{{ site.baseurl }}/img/motherwater1.jpg" />
 			<img class="col one" src="{{ site.baseurl }}/img/motherwater2.jpg" />
@@ -23,6 +24,7 @@ img: /img/des1.jpg
 <br>
 
 ### Photography
+
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/a1.jpg" alt="" title=""/>
 	<img class="col one" src="{{ site.baseurl }}/img/a2.jpg" alt="" title=""/>
@@ -50,12 +52,14 @@ Super Marexar 28mm f/2.8 (M42)
 Minolta MD Rokkor 50mm f/1.8
 	
 ### Computational arts & Creative code
+
 <br>
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/TreeofLight2.gif" alt="" title="VR doodle"/>
 </div>
 
 #### Creative coding
+
 The homepage shows a DNA sequence (currently MI transposon insertion flanking sequence of *Drosophila melanogaster*) that you can draw out using your cursor. You can explore the full version of this project [here](/alleles.html).
 <br>
 ALLE(LE)S is an ongoing project, with which I hope to show both the complexity and intricacy of the basics of life: DNA. DNA, in a biological sense, means everything and nothing. DNA is the hard drive of our bodies, it contains our genes, the mutations we care, our ancestry. And every cell in your body, roughly has exactly the same genetic makeup. However, without the regulatory machinery around it, without the encoded RNA, we won't make proteins, and without proteins, well, there will not be life, since DNA can't even be transcribed into RNA without them... So, DNA on it's own, doesn't really mean much. And that becomes very clear, when you compare the sizes of different genomes. Plants can have DNA 10 times 'longer' than ours. And *E.coli*, has DNA only times smaller.
@@ -64,6 +68,7 @@ ALLE(LE)S is a data visualisation project.
 The interactive visualisation, allows you to search and draw out any DNA sequence (playing a polymerase), allows you to decide when to generate RNA (playing a ribosome): a visual experience that brings you closer to the complexity of your biology, and the essence of what it is to be.
 
 ### Other
+
 <br>
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/business.png" alt="" title="example image"/>
@@ -77,8 +82,5 @@ The interactive visualisation, allows you to search and draw out any DNA sequenc
 <br>
 <a href="javascript:javascript:history.go(-1)">  <font size="15"> < </font> </a>
 <br>
-
-### Code
-Most of my work is done in Python/JS. You can find my academic work on the [Shihlab bitbucket](https://bitbucket.org), and personal work on my [Github](https://github.com/kenzasam).
 <br>
 
