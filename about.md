@@ -10,14 +10,13 @@ Ph.D., ir.
 Microfluidics & Synthetic Biology
 
 As a Bio-engineer with proactive and creative problem-solving approach, I thrive in high-stakes environments that demand operational excellence working with multidisciplinary teams. 
-I received a BSc + MSc in Bioengineering from KU Leuven, and a Ph.D. from Concordia University in 2022, researching microfluidics for applications in synthetic biology at the [Shih Microfluidics Lab](http://users.encs.concordia.ca/~sshih/index.html). I then worked with the team at [Alvea](http://alvea.bio) as a clinical product development lead. I'm commited to working on projects that make this world a safer place, through biosecurity (biological threath reductiont, global health, community biology, open science and hardware) . I'm a community manager at [Bricobio](http://brico.bio), hold a board position at [SynBio Canada](https://www.synbiocanada.org/), and act as a judge and Safety and Security Commitee member at [iGEM](www.igem.org) HQ.
+I received a BSc + MSc in Bioengineering from KU Leuven, and a Ph.D. from Concordia University in 2022, researching microfluidics for applications in synthetic biology at the [Shih Microfluidics Lab](http://users.encs.concordia.ca/~sshih/index.html). I then worked with the team at [Alvea](http://alvea.bio) as a clinical product development lead. I'm commited to working on projects that make this world a safer place, through biosecurity (biological threath reduction, global health, community biology, open science and hardware) . I'm a community manager at [Bricobio](http://brico.bio), hold a board position at [SynBio Canada](https://www.synbiocanada.org/), and act as a judge and Safety and Security Commitee member at [iGEM](www.igem.org) HQ.
 
 Into growing, building, and breaking things when necessary :)
 
 Research interests: Microfluidics, synthetic biology, open science, food security, genetic privacy and global health.
 
 #### Publications
-
 - Samlali K., Alves C. L., Jezernik M., & Shih S. C. (2022). Droplet digital microfluidic system for screening filamentous fungi based on enzymatic activity. Microsystems & Nanoengineering, 8(1), 123. [here](https://www.nature.com/articles/s41378-022-00456-1)
 - Samlali K., Thornbury M., & Venter A. (2022). Community-led risk analysis of direct-to-consumer whole-genome sequencing. Biochemistry and Cell Biology, 100(6), 499-509. [here](https://cdnsciencepub.com/doi/10.1139/bcb-2021-0506)
 - Davis, A. N., Samlali, K., Kapadia, J. B., Perreault, J., Shih, S. C. C., & Kharma, N. (2021). Digital Microfluidics Chips for the Execution and Real-Time Monitoring of Multiple Ribozymatic Cleavage Reactions. ACS Omega, 6(35), 22514–22524. [here](https://doi.org/10.1021/acsomega.1c00239)
@@ -32,8 +31,8 @@ Research interests: Microfluidics, synthetic biology, open science, food securit
 - uTAS 2019
 
 #### Theses
-- **PhD Thesis**. Samlali, K. Integrating droplet and digital microfluidics for single cell analysis. 2022. Dept. Electrical and Computer Engineering - Concordia University
-- **M. Sc. Thesis**. Samlali, K. Development of an EMS based random mutagenesis method of arbuscular mycorrhizal fungus (AMF) R.irregularis DAOM-197198 for industrial applications and mycorrhizal research. 2017. Faculty of Bioscience Engineering - KU Leuven
+- PhD Thesis. Samlali, K. Integrating droplet and digital microfluidics for single cell analysis. 2022. Dept. Electrical and Computer Engineering - Concordia University
+- M. Sc. Thesis. Samlali, K. Development of an EMS based random mutagenesis method of arbuscular mycorrhizal fungus (AMF) R.irregularis DAOM-197198 for industrial applications and mycorrhizal research. 2017. Faculty of Bioscience Engineering - KU Leuven
 <hr/>
 <br/>
 <span class="contacticon center">
