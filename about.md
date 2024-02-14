@@ -10,11 +10,13 @@ Ph.D., ir.
 Microfluidics & Synthetic Biology
 
 As a Bio-engineer with proactive and creative problem-solving approach, I thrive in high-stakes environments that demand operational excellence working with multidisciplinary teams. 
-I received a BSc + MSc in Bioengineering from KU Leuven, and a Ph.D. from Concordia University in 2022, researching microfluidics for applications in synthetic biology at the [Shih Microfluidics Lab](http://users.encs.concordia.ca/~sshih/index.html). I then worked with the team at [Alvea](http://alvea.bio) as a clinical product development lead. I'm commited to working on projects that make this world a safer place, through biosecurity (biological threath reduction, global health, community biology, open science and hardware) . I'm a community manager at [Bricobio](http://brico.bio), hold a board position at [SynBio Canada](https://www.synbiocanada.org/), and act as a judge and Safety and Security Commitee member at [iGEM](www.igem.org) HQ.
+I received a BSc + MSc in Bioengineering from KU Leuven, and a Ph.D. from Concordia University in 2022, researching microfluidics for applications in synthetic biology at the [Shih Microfluidics Lab](http://users.encs.concordia.ca/~sshih/index.html). I then worked with the team at [Alvea](http://alvea.bio) as a clinical product development lead for vaccines and therapies. I co-founded [Panoplia Laboratories Inc](https://www.panoplialabs.org/), a non profit developing new biologic antiviral medicines, where I currently hold a position as project manager / product developer. I'm commited to working on projects that make this world a safer place, through biosecurity (biological threath reduction, global health, community biology, open science and hardware) . I'm a community manager at [Bricobio](http://brico.bio), hold a board position at [SynBio Canada](https://www.synbiocanada.org/), and act as a judge and Safety and Security Commitee member at [iGEM](www.igem.org) HQ.
 
 Into growing, building, and breaking things when necessary :)
 
-Research interests: Microfluidics, synthetic biology, open science, food security, genetic privacy and global health.
+Research interests: synthetic biology, (lab) automation, open science (hardware), food security, genetic privacy and global health.
+
+Expertise: drug manufacturing & preclinical product dev (biologics, nanoparticle formulations), microfluidics, scaling startups, biotech mvp work.
 
 #### Publications
 - Samlali K., Alves C. L., Jezernik M., & Shih S. C. (2022). Droplet digital microfluidic system for screening filamentous fungi based on enzymatic activity. Microsystems & Nanoengineering, 8(1), 123. [here](https://www.nature.com/articles/s41378-022-00456-1)
