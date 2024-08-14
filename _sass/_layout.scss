@@ -138,7 +138,7 @@ font-size: 42px;
 letter-spacing: -1px;
 line-height: 1;
 @include media-query($on-laptop) {
-font-size: 36px;
+font-size: 28px;
     }
 }
 .post-content {
@@ -171,15 +171,6 @@ display: block;
 font-size: 42px;
 }
 
-/** Poem formatting ********************************************/
-.poem-title {
-font-size: 24px;
-letter-spacing: -1px;
-line-height: 1;
-@include media-query($on-laptop) {
-font-size: 16px;
-    }
-}
 /**
  * Portfolio gallery **********************************************************
 */
