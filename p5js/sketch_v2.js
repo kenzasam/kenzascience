@@ -40,6 +40,8 @@ function preload(){
 
 function setup() {
  canvas = createCanvas(windowWidth, windowHeight);
+ //canvas = createCanvas(300, 300);
+ canvas.parent('sketch-holder');
  canvas.position(0,0);
  canvas.style('z-index', '-1');
  canvas.style('display', 'block');
@@ -60,8 +62,8 @@ function draw() {
   background(230);
   fill(100);
   textFont(info);
-  text("Search for an organism, tissue, ... f.e. mus musculus!", 15, 80);
-  text("Move your mouse to draw DNA, click & drag to make RNA", 15, 100);
+  //text("Search for an organism, tissue, ... f.e. mus musculus!", 15, 80);
+  //text("Move your mouse to draw DNA, click & drag to make RNA", 15, 100);
   //text("press SPACEBAR to clear canvas", 15, 140);
 
   if (startdrawing){
