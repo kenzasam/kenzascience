@@ -25,7 +25,7 @@ collections:
     output: true
     permalink: /projects/:path/
   blog:
-    output:
+    output: true
     permalink: /Blog:path/
 
 defaults:

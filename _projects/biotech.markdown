@@ -76,8 +76,4 @@ For brewing, we use transformed <i>S.cerevisiae</i> (GFP). The plan was to make 
 <div class="col three caption">
 	Selfmade centrifuge (3D printed spinner, brushless DC motor, Arduino nano), magnetic stirrer (Hard drive supermagnets, computer fan), Lab bench (polyurethane covered plywood). Thanks to Bricobio, Foulab and Helios makerspace.
 </div>
-<br>
-<br>
-<a href="javascript:javascript:history.go(-1)">  <font size="13"> < </font> </a>
-<br>
-<br/><br/><br/>
+

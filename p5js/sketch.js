@@ -17,7 +17,7 @@ var startcodons=[];
 var counter;
 
 function preload(){
-  dna = loadStrings('dna.txt', fileready);
+  dna = loadStrings('p5js/dna.txt', fileready);
 }
 
 function setup() {
@@ -33,12 +33,11 @@ function setup() {
  fill(200);
  textFont(info);
  //text("press SPACE to clear canvas", 15, 100);
- text("Move mouse to draw DNA, click & drag to make RNA", 15, 100);
- text("Explore the full version!! ./projects/alleles", 15, 120);
+ //text("Move mouse to draw DNA, click & drag to make RNA", 15, 100);
+ //text("Explore the full version!! ./projects/alleles", 15, 120);
 }
 //
 function fileready(dna){
-  //"https://github.com/kenzasam/kenzascience/blob/gh-pages/dna.txt");
   jdna = join(dna,'');
   console.log(jdna);
   console.log(jdna.length);
