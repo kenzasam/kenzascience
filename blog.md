@@ -5,7 +5,6 @@ title: Blog
 description: Thoughts
 ---
 
-Coming soon...
 
 <ul>
   {% for post in site.posts %}
