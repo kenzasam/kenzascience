@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Green card journey for the extraordinaries
+title:  Green card journey for the extraordinary
 date:   2024-11-22 16:40:16
 description: An example immigration journey
 ---
@@ -8,15 +8,15 @@ US immigration deserves a bit more of an open discussion. Now that I have my gre
 
 **Overview**
 
-I went from an employer sponsored J1 to an O1, and then self petitioned for an EB1-A green card. I applied for the EB-1A; this is the most challenging green card type you can go for, and allows you to self petition.  EB-1B is also a fast option, but can not be self-petitioned. Another (safer) option for me was the NIW EB-2.  The NIW can be self petitioned, but does have a country dependent wait time, which is 1 year for Belgium (you have to wait 1 year before you may submit your I-485. Once you submit the I-485, you still have to wait to receive the green card, which is 4-12 months). Considering I'm interested in entrepreneurial activities in my field of expertise, the green card route was an urgent decision for me, rather than sticking to O1.
+I went from an employer sponsored J1 visa to an O1 visa, and then self petitioned for an EB1-A green card. I applied for the [EB-1A](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1); this is the most challenging green card type you can go for, and allows you to self petition.  EB-1B is also a fast option, but can not be self-petitioned. Another (safer) option for me was the NIW EB-2.  The NIW can be self petitioned, but does have a country dependent wait time, which is 1 year for Belgium (you have to wait 1 year before you may submit your [I-485](https://www.uscis.gov/i-485) application for permanent residence. Once you submit the I-485, you still have to wait to receive the green card, which is 4-12 months). Considering I'm interested in entrepreneurial activities in my field of expertise, the green card route was an urgent decision for me, rather than sticking to O1.
 
-Obviously, I did not just work 2 years on this, but many years, by performing interesting academic research in biomanufacturing/synthetic biology/biosecurity. Scholarly excellence gets you the O1 and the NIW EB-2 with certainty, by showing you can provide future benefit to the US. If you want an EB-1A/B as a scholar, you’ll have to show impact of your work that already happened and not your future promises, which I did through showing my patents/inventions are actively used and my work impacted large organizations already. 
+Obviously, I did not just work 2 years on this, but many years, by performing interesting academic research in biomanufacturing/synthetic biology/biosecurity. Scholarly excellence gets you the O1 visa and the NIW EB-2 green card with certainty, by showing you can provide future benefit to the US. If you want an EB-1A/B as a scholar, you’ll have to show impact of your work that already happened and not your future promises, which I did through showing my patents/inventions are actively used and my work impacted large organizations already. 
 
 **Breakdown of costs**
 
-Since the J-1 and O-1 were sponsored by my employer and paid by them, my main costs were travel related for these two visas. Roughly I spent $2000 on traveling back and forth for the O1 process. After O1 approval I also switched employers once, which was a quick 1 week TAT for O1 transfer with expedited processing (employer paid). I didn’t include this in my timeline.
+Since the J-1 and O-1 were sponsored by my employer and paid by them, my main costs were travel related for these two visas. Roughly I spent $2000 on traveling back and forth for the O1 visa process. After O1 approval I also switched employers once, which was a quick 1 week turnaround time for O1 transfer with expedited processing (employer paid). I didn’t include this in my timeline.
 
-The EB-1 was a self petition and the majority of my immigration costs. Note that the law firm I used was the same law firm that submitted my O-1, and thus a significant discount was applied since they already had the majority of my file put together. I decided to go with a law firm, to alleviate stress. I know they were successfull in my previous two visas, and they were easy to work with. Anyone who knows me, knows I’m not a big spender and prefer to do things myself. This case is an exception. USCIS has such a weird preference in language and presentation of your file, that I could not have done this successfully. As a scientists, my language would have been very different. The other reason that made costs higher, is due to the rejection of my application. I knew the EB-1A would be a very difficult visa to get, and it got denied. I then decided to appeal that decision, which worked, but did cost some lawyer time. Again though, very happy to have a lawyer for this. This is something I would not have done by myself. I would have decided to apply for an NIW if I didn’t use a lawyer.
+The EB-1 was a self petition and the majority of my immigration costs. Note that the law firm I used was the same law firm that submitted my O-1, and thus a significant discount was applied since they already had the majority of my file put together. I decided to go with a law firm, to alleviate stress. I know they were successfull in my previous two visas, and they were easy to work with. Anyone who knows me, knows I’m not a big spender and prefer to do things myself. This case is an exception. USCIS has such a weird preference in language and presentation of your file, that I could not have done this successfully. As a scientist, my language would have been very different. The other reason that made costs higher, is due to the rejection of my application. I knew the EB-1A would be a very difficult green card to get, and it got denied. I then decided to appeal that decision, which worked, but did cost some lawyer time. Again though, very happy to have a lawyer for this. This is something I would not have done by myself. I would have decided to apply for an NIW if I didn’t use a lawyer.
 
 - ~$2000 total travel costs for J1 and O1
 - ~$7900 EB1-A self petition I-140 legal fees, filing fees
@@ -36,10 +36,10 @@ TOTAL: ~$18600
 - June, 2023: O-1 approval for consular processing
 - July, 2023: O-1 Consular interview (Brussels)
 - July, 2023: O-1 Visa in passport
-- February, 2024: EB-1A Application received (I-140)
+- February, 2024: EB-1A petition received (I-140, petition for alien worker)
 - February, 2024: EB-1A Notice of Intent to Deny (NOITD): my application was denied. This is worse than just a Request for Evidence (3 months to answer). However, I found the USCIS arguments not reasonable, and decided to respond. Alternatively I could've now switched to NIW EB-2, which would have been easier.
 - March, 2024: Submitted response to NOITD
-- April, 2024: EB-1A I-140 Approval  
+- April, 2024: EB-1A I-140 Approval. Now I could submit an I-485 Application.
 - April, 2024: Medical Exam
 - June, 2024 : Mailed in EB-1A Application submitted for change of status, work permit and travel permit (Form I-485, Form I-765, Form I-131)
 - June, 2024: Form I-485, Form I-765, Form I-131, were received
@@ -49,7 +49,7 @@ TOTAL: ~$18600
 - July, 2024: New EAD card ordered
 - July, 2024: Approved Form I-765, Application for Employment Authorization
 - July, 2024: EAD Card received by mail
-- Sep, 2024: Surprise unterview scheduled.
+- Sep, 2024: Surprise interview scheduled.
 - Nov, 2024: Attended rescheduled interview. I-485 approved
 
 
