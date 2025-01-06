@@ -6,13 +6,13 @@ description: An example immigration journey
 ---
 US immigration deserves a bit more of an open discussion. Now that I have my green card, I'm excited to share how I approached my immigration journey. Here’s how I did it.
 
-**Overview**
+### Overview
 
 I went from an employer sponsored J1 visa to an O1 visa, and then self petitioned for an EB1-A green card. I applied for the [EB-1A](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1); this is the most challenging green card type you can go for, and allows you to self petition.  EB-1B is also a fast option, but can not be self-petitioned. Another (safer) option for me was the NIW EB-2.  The NIW can be self petitioned, but does have a country dependent wait time, which is 1 year for Belgium (you have to wait 1 year before you may submit your [I-485](https://www.uscis.gov/i-485) application for permanent residence. Once you submit the I-485, you still have to wait to receive the green card, which is 4-12 months). Considering I'm interested in entrepreneurial activities in my field of expertise, the green card route was an urgent decision for me, rather than sticking to O1.
 
 Obviously, I did not just work 2 years on this, but many years, by performing interesting academic research in biomanufacturing/synthetic biology/biosecurity. Scholarly excellence gets you the O1 visa and the NIW EB-2 green card with certainty, by showing you can provide future benefit to the US. If you want an EB-1A/B as a scholar, you’ll have to show impact of your work that already happened and not your future promises, which I did through showing my patents/inventions are actively used and my work impacted large organizations already. 
 
-**Breakdown of costs**
+### Breakdown of costs
 
 Since the J-1 and O-1 were sponsored by my employer and paid by them, my main costs were travel related for these two visas. Roughly I spent $2000 on traveling back and forth for the O1 visa process. After O1 approval I also switched employers once, which was a quick 1 week turnaround time for O1 transfer with expedited processing (employer paid). I didn’t include this in my timeline.
 
@@ -27,7 +27,7 @@ The EB-1 was a self petition and the majority of my immigration costs. Note that
 
 TOTAL: ~$18600
 
-**Timeline**
+### Timeline
 
 - March, 2022: J-1 Internship application submitted to J-1 sponsor
 - March, 2022: DS-160
