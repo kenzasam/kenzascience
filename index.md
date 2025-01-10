@@ -44,7 +44,7 @@ DIYBio: Community Biosummit 2021, UNODA
 <br/>
 
 <span class="contacticon center">
-	<a href="mailto:kenza@kenza.science" target="blank"><i class="fa fa-envelope fa-fw"></i></a>
+	<a href="mailto:kenzascience@pm.me" target="blank"><i class="fa fa-envelope fa-fw"></i></a>
 	<a href="https://twitter.com/kenzasaml" target="blank"><i class="fa fa-twitter fa-fw"></i></a>
 	<a href="https://linkedin.com/in/kenzasamlali" target="blank"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
 </span>
