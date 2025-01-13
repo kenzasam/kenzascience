@@ -5,8 +5,14 @@ description: Biosecurity, Synthetic biology & more
 img: /img/Myc4.jpeg
 ---
 ### Biosecurity
+Beyond my professional involvement in biosecurity, I sometimes work on related side-projects.
 
-coming soon
+- With a non-academic group, I published [a paper](https://cdnsciencepub.com/doi/pdf/10.1139/bcb-2021-0506) on the implications of direct-to-consumer whole genome sequencing.
+- I followed this up with some work on the security oimplactions, with the Nuclear Threat Initiative (NTIBio). You can read the report [here](https://www.nti.org/wp-content/uploads/2021/11/Towards-Responsible-Genomic-Surveillance_Final.pdf).
+- I taught a biosecurity course at BlueDot Impact
+- I helped with designing LLM Evals related to biosecurity
+- I compiled [information on the spread of Bird Flu (H5N1)](https://kenzasam.github.io/AvianFluInfo/) in the United States.
+
 
 ### Microfluidics
 
@@ -45,14 +51,16 @@ Mutated Arbuscular Mycorrhizal Fungi (AMF) *R.irregularis* DAOM197198
 <br>
 
 ### DIY Bio and community science projects
-#### Kombucha engineering
+
+I worked on plenty of ideas in our DIYBio group [Bricobio](www.brico.bio).
+
+**Kombucha engineering**
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/biomat1.jpg" alt="" title=""/>
 </div>
 A project at Bricobio where we were trying to improve the structural properties of bacterial cellulose biofilm by stabilizing a foreign bacteria in the community.
 
-#### Bioilluminescent Beer
-Or Foulbeer Green Pale Ale.
+**Bioliumiescent beer /  Foulbeer Green Pale Ale.**
 In collaboration with [Foulab](https://foulab.org), we've been brewing fluorescent beer with transformed yeast. That is nothing special... but... We're working towards bioilluminescent beer!
 
 <div class="img_row">
@@ -62,8 +70,7 @@ In collaboration with [Foulab](https://foulab.org), we've been brewing fluoresce
 <br>
 For brewing, we use transformed <i>S.cerevisiae</i> (GFP). The plan was to make a food safe transformed yeast strain that exports proteins that can trigger bioilluminescence in low quantity. I designed the yeast expression vector (2µ plasmid origin of replication, a ColE1 element, a marker gene (E. coli), a heterologous (methanol inducible) promoter, a termination signal and alpha-factor secretion leader peptide. )
 
-#### Other Ideas
-
+**... and many others**
 - Bacterial based photography developer and stripper
 - Chicken-of-the-woods, mushroom farming
 - Synbio Carmine dye synthesis
