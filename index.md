@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### Kenza S.
+*Kenza S.*
 Ph.D., ir.
 Microfluidics & Synthetic Biology
 
