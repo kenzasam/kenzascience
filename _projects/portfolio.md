@@ -9,6 +9,9 @@ img: /img/des1.jpg
 			<img class="col one" src="{{ site.baseurl }}/img/motherwater2.jpg" />
 			<img class="col one" src="{{ site.baseurl }}/img/kombuchalamp.jpg" />
 </div>
+
+Biodesign, featuring 0.22um filtered kombucha water, kombucha leather lamp,
+
 <div class="img_row">
 			<img class="col two" src="{{ site.baseurl }}/img/4space1.jpg" />
 			<img class="col one" src="{{ site.baseurl }}/img/4space4.jpg" />
@@ -20,7 +23,7 @@ img: /img/des1.jpg
 </div>
 <br>
 
-Biodesign, featuring 0.22um filtered kombucha water, kombucha leather lamp, an exhibition on genetically modified organisms I curated at Concordia 4th Space.
+An exhibit I curated at Concordia 4th Space, on synthetic biology. I designed a custom illuminator for visitors to interactively view fluorescent protein expression from a variety of bacterial an yest strains.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/a1.jpg" alt="" title=""/>
