@@ -53,7 +53,7 @@ def create_outbreak_map(df):
             size=df['cases'].apply(scale_size),  # Scale marker size
             color=df['cases'],
             colorscale='Reds',
-            colorbar_title="Number of Cases",
+            colorbar_title="# Cases",
             showscale=True,
             opacity=0.7,
         ),
@@ -62,7 +62,6 @@ def create_outbreak_map(df):
 
     # Update the layout
     fig.update_layout(
-        title='Geographic Distribution of cummulative Avian Flu Cases in commercial and backyard birds, Dec 2024 - Jan 2025',
         geo=dict(
             scope='usa',  # Can be changed to 'world', 'europe', etc.
             showland=True,
