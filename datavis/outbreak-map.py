@@ -74,15 +74,15 @@ def create_outbreak_map(df):
             showocean=True,
             oceancolor='rgb(230, 230, 250)'
         ),
-        width=1000,
-        height=600
     )
 
     return fig
 
 
 # Read your data
-df = pd.read_csv('outbreak_data.csv', encoding = 'utf-16', sep ='\t')
+fig_path ="" #your file path
+data_path="" #your raw data cvs path
+df = pd.read_csv(data_path, encoding = 'utf-16', sep ='\t')
 df['location_name'] = df['State'] + ', ' + df['County Name']
 # convert string to an integer
 df['cases'] = df['cases'].str.replace(",", "")
@@ -96,4 +96,4 @@ print ('got coordinates')
 # Create and show the map
 fig = create_outbreak_map(df)
 fig.show()
-fig.write_html("outbreak_map.html", include_plotlyjs=True, full_html=False)
+fig.write_html(fig_path, include_plotlyjs=True, full_html=False, config={"responsive": True})
