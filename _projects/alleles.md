@@ -1,7 +1,7 @@
 ---
 layout: p5sketch
 title: Alle(*le)s
-description: An interactive visualisation of worlds largest genetic information database
+description: Data visualisation of worlds largest genetic information database
 img: /img/alleles.png
 p5:
   - p5

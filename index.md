@@ -6,22 +6,24 @@ layout: page
 Ph.D., ir.
 Microfluidics & Synthetic Biology
 
-As a Bio-engineer with proactive and creative problem-solving approach, I thrive in high-stakes environments that demand operational excellence working with multidisciplinary teams. 
-I received a BSc + MSc in Bioengineering from KU Leuven, and a Ph.D. from Concordia University in 2022, researching microfluidics for applications in synthetic biology at the [Shih Microfluidics Lab](https://users.encs.concordia.ca/~sshih/index.html). I worked with the team at [Alvea](https://alvea.bio) as a clinical product development lead for vaccines and therapies. I co-founded [Panoplia Laboratories Inc](https://www.panoplialabs.org/), a non profit developing new biologic antiviral medicines, where I developed biologic antivirals. I'm commited to working on projects that make this world a safer place, through biosecurity (biological threath reduction, global health, community biology, open science and hardware) . I actively support several open science, DIYBio and synthetic biology communities: [Bricobio](htts://brico.bio), [SynBio Canada](https://www.synbiocanada.org/), and [iGEM](www.igem.org) HQ.
+Bio-engineer with proactive and creative problem-solving approach. I thrive in high-stakes environments that demand operational excellence and working with multi-disciplinary teams. 
+I received a BSc + MSc in Bioengineering from KU Leuven, and a Ph.D. from Concordia University in 2022, researching microfluidics for applications in synthetic biology at the [Shih Microfluidics Lab](https://users.encs.concordia.ca/~sshih/index.html). I worked with the team at [Alvea](https://alvea.bio) as a clinical product development lead for vaccines and therapies. I co-founded [Panoplia Laboratories Inc](https://www.panoplialabs.org/), a non profit developing new biologic antiviral medicines, where I developed biologic antivirals. I'm commited to working on projects that make this world a safer place, through biosecurity: biological threath reduction, global health, community biology, open science and hardware. I actively support several open science, DIYBio and synthetic biology communities: [Bricobio](https://brico.bio), [SynBio Canada](https://www.synbiocanada.org/), and [iGEM](https://www.igem.org) HQ.
 
 Into growing, building, and breaking things when necessary :)
 
-*Research interests*: synthetic biology, (lab) automation, open science (hardware), food security, genetic privacy and global health.
+*Research interests*: synthetic biology, biotech hardware and tools, open science, food security, genetic privacy and global health.
 
 *Expertise*: drug manufacturing & preclinical product dev (biologics, nanoparticle formulations), microfluidics, scaling startups, biotech mvp work.
 
 I'm available for consulting in the following areas:
 - Technical work: 
-  - Microfluidic product development
+  - Biotech tool development: microfluidics, automation systems, devices, materials, optical systems
   - Drug development: CMC strategy, preclinical team efficiency optimisation, first-in-human strategy for startups
 - Creative work:
-  - Data visualisation and Scientific illustrating
+  - Data visualisation
+  - Scientific illustrations
   - Workshop facilitator
+  - Biodesign
 
 #### Publications
 - Samlali K., Alves C. L., Jezernik M., & Shih S. C. (2022). Droplet digital microfluidic system for screening filamentous fungi based on enzymatic activity. Microsystems & Nanoengineering, 8(1), 123. [here](https://www.nature.com/articles/s41378-022-00456-1)
