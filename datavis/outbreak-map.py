@@ -93,6 +93,8 @@ geolocator = Nominatim(user_agent="outbreak_ks")
 geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1)
 df[['latitude', 'longitude']] = df['location_name'].apply(get_coordinates)
 print ('got coordinates')
+#saving df
+df.to_csv('transf_map.csv', sep='\t')
 # Create and show the map
 fig = create_outbreak_map(df)
 fig.show()

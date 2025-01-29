@@ -12,8 +12,10 @@ sketches:
 
 <div>
   <p>
-  ALLE(LE)S is an ongoing project, with which I hope to show both the complexity and intricacy of the basics of life: DNA. DNA, in a biological sense, means everything and nothing. DNA is the hard drive of our bodies, it contains our genes, the mutations we care, our ancestry. And every cell in your body, roughly has exactly the same genetic makeup. However, without the regulatory machinery around it, without the encoded RNA, we don't make proteins, and without proteins, well, there will not be life, since DNA can't even be transcribed into RNA without them... So, DNA on it's own, doesn't really mean much. And that becomes very clear, when you compare the sizes of different genomes. Plants can have DNA 10 times 'longer' than ours. And *E.coli*, has DNA only times smaller.
-  ALLE(LE)S is a data visualisation project. The interactive visualisation, allows you to search and draw out any DNA sequence (playing a polymerase), allows you to decide when to generate RNA (playing a ribosome): a visual experience that brings you closer to the complexity of your biology, and the essence of what it is to be.
+  ALLE(LE)S is a data visualisation project. The interactive visualisation, allows you to search and draw out any DNA sequence, and transcribe RNA (click and drag). This visual experience brings you closer to the complexity of your biology and the building blocks of life.
+  
+  DNA, in a biological sense, means everything and nothing. DNA is the hard drive of our bodies, it contains our genes, their encoded information and historical archives. And every cell in your body, roughly has exactly the same genetic makeup. However, without the regulatory machinery around it, without the encoded RNA, we don't make proteins, and without proteins, well, there will not be life, since DNA can't even be transcribed into RNA without them... So, DNA on it's own, doesn't really mean much. And that becomes very clear, when you compare the sizes of different genomes. Plants can have DNA 10 times 'longer' than ours.
+ 
   </p>
   <p>
     Organism: <input id="nucleotide" value="">

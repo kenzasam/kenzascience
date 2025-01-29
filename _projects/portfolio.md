@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+title: Creative Portfolio
 description: Portfolio of design and creative projects
 img: /img/des1.jpg
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Research
 description: Biosecurity, Synthetic biology & more
 img: /img/Myc4.jpeg
