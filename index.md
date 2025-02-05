@@ -6,14 +6,15 @@ layout: page
 Ph.D., ir.
 Microfluidics & Synthetic Biology
 
-Bio-engineer with proactive and creative problem-solving approach. I thrive in high-stakes environments that demand operational excellence and working with multi-disciplinary teams. 
-I received a BSc + MSc in Bioengineering from KU Leuven, and a Ph.D. from Concordia University in 2022, researching microfluidics for applications in synthetic biology at the [Shih Microfluidics Lab](https://users.encs.concordia.ca/~sshih/index.html). I worked with the team at [Alvea](https://alvea.bio) as a clinical product development lead for vaccines and therapies. I co-founded [Panoplia Laboratories Inc](https://www.panoplialabs.org/), a non profit developing new biologic antiviral medicines, where I developed biologic antivirals. I'm commited to working on projects that make this world a safer place, through biosecurity: biological threath reduction, global health, community biology, open science and hardware. I actively support several open science, DIYBio and synthetic biology communities: [Bricobio](https://brico.bio), [SynBio Canada](https://www.synbiocanada.org/), and [iGEM](https://www.igem.org) HQ.
+Bio-engineer with creative problem-solving approach. I thrive in high-stakes environments that demand operational excellence, and tend to work with multi-disciplinary teams.
+I received a BSc + MSc in Bioengineering from KU Leuven (Belgium), and a Ph.D. from Concordia University (Canada), developing microfluidics for applications in synthetic biology at the [Shih Microfluidics Lab](https://users.encs.concordia.ca/~sshih/index.html). I worked with the team at [Alvea](https://alvea.bio) as a clinical product development lead for vaccines and therapeutics. I co-founded [Panoplia Laboratories Inc](https://www.panoplialabs.org/), a non-profit research institute, to develop broad-spectrum antiviral medicines. 
+I'm commited to working on projects that make this world a safer and healthier place: global health / one health, community biology, open science and hardware. I actively support several open science, DIYBio and synthetic biology efforts: [Bricobio](https://brico.bio), [SynBio Canada](https://www.synbiocanada.org/), and [iGEM](https://www.igem.org) HQ.
 
 Into growing, building, and breaking things when necessary :)
 
 *Research interests*: synthetic biology, biotech hardware and tools, open science, food security, genetic privacy and global health.
 
-*Expertise*: drug manufacturing & preclinical product dev (biologics, nanoparticle formulations), microfluidics, scaling startups, biotech mvp work.
+*Expertise*: drug manufacturing & preclinical product dev (biologics, nanoparticle formulations), microfluidics, scaling startups, biotech tool development.
 
 I'm available for consulting in the following areas:
 - Technical work: 
@@ -35,12 +36,16 @@ I'm available for consulting in the following areas:
 - Ahmadi F., Samlali K., Vo P.Q.S., Shih S.C.C. (2019). An integrated droplet-digital microfluidic system for on-demand droplet creation, mixing, incubation, and sorting. Lab on Chip. [here](https://pubs.rsc.org/en/content/articlelanding/2019/lc/c8lc01170b).
 
 #### Talks
-Microfluidics: EIMC 2021, SLAS 2020, uTAS 2019
-DIYBio: Community Biosummit 2021, UNODA
+- Microfluidics: EIMC 2021, SLAS 2020, uTAS 2019
+- Other: Community Biosummit 2021, UNODA
 
 #### Theses
 - PhD Thesis. Samlali, K. Integrating droplet and digital microfluidics for single cell analysis. 2022. Dept. Electrical and Computer Engineering - Concordia University
 - M. Sc. Thesis. Samlali, K. Development of an EMS based random mutagenesis method of arbuscular mycorrhizal fungus (AMF) R.irregularis DAOM-197198 for industrial applications and mycorrhizal research. 2017. Faculty of Bioscience Engineering - KU Leuven
+
+#### Patents
+- [Microfluidic single cell isolation](https://patents.google.com/patent/US20240326050A1/en?q=(samlali)&oq=samlali&peid=62d6a6ac29018%3A16%3Aec617a93)
+- [A super fast PCR device](https://patents.google.com/patent/US20240218434A1/en?q=(samlali)&oq=samlali)
 
 <hr/>
 <br/>
