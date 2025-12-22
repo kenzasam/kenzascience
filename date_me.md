@@ -4,7 +4,7 @@ title: Date Me
 description: I'm looking for a partner!
 permalink: /dateme/
 exclude: true
-nav: false
+exclude_from_nav: true
 ---
 
 ### Disclaimer
