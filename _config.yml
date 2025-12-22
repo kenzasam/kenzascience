@@ -1,11 +1,11 @@
 # Site settings
 title: "Kenza.Science"
 email: #
-description: "Innovation - Design - Biology - Policy"
+description: "Personal website"
 baseurl: # the subpath of your site, e.g. /blog/
 url:  "http://www.kenza.science"
 twitter_username: kenzasaml
-github_username: #
+github_username: kenzasam
 
 #Google Analytics:
 google_analytics: UA-38583877-3

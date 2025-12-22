@@ -2,7 +2,7 @@
 layout: post
 permalink: /blog/
 title: Blog
-description: Thoughts
+description: Thoughts and writing
 ---
 
 
