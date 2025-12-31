@@ -4,7 +4,6 @@ title: Date Me
 description: I'm looking for a partner!
 permalink: /dateme/
 exclude: true
-exclude_from_nav: true
 ---
 
 ### Disclaimer
@@ -57,4 +56,4 @@ Deal-breakers:
 ### Ask me out Logistics
 Location: Currently in San Francisco Bay Area (Oakland) but would relocate for love.
 Open to: Coffee dates, museum visits, long hikes where we can actually talk, cooking together
-How to reach me: datekenza@proton.me
+How to reach me: ksaml at proton.me
